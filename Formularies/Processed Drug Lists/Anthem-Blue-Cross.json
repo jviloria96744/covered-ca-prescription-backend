@@ -1,0 +1,2307 @@
+{
+  "Drug List": [
+    { "Label": "abacavir sulfate", "Value": "abacavir sulfate" },
+    {
+      "Label": "abacavir sulfate-lamivudine",
+      "Value": "abacavir sulfate-lamivudine"
+    },
+    {
+      "Label": "abacavir-lamivudine-zidovudine",
+      "Value": "abacavir-lamivudine-zidovudine"
+    },
+    { "Label": "abiraterone acetate", "Value": "abiraterone acetate" },
+    { "Label": "acamprosate calcium", "Value": "acamprosate calcium" },
+    { "Label": "acarbose", "Value": "acarbose" },
+    { "Label": "ACCU-CHEK AVIVA", "Value": "ACCU-CHEK AVIVA" },
+    { "Label": "ACCU-CHEK AVIVA CONNECT", "Value": "ACCU-CHEK AVIVA CONNECT" },
+    { "Label": "ACCU-CHEK AVIVA PLUS", "Value": "ACCU-CHEK AVIVA PLUS" },
+    { "Label": "ACCU-CHEK COMPACT PLUS", "Value": "ACCU-CHEK COMPACT PLUS" },
+    { "Label": "ACCU-CHEK COMPACT PLUS", "Value": "ACCU-CHEK COMPACT PLUS" },
+    { "Label": "ACCU-CHEK COMPACT PLUS", "Value": "ACCU-CHEK COMPACT PLUS" },
+    {
+      "Label": "ACCU-CHEK FASTCLIX LANCET",
+      "Value": "ACCU-CHEK FASTCLIX LANCET"
+    },
+    { "Label": "ACCU-CHEK GUIDE", "Value": "ACCU-CHEK GUIDE" },
+    { "Label": "ACCU-CHEK GUIDE CONTROL", "Value": "ACCU-CHEK GUIDE CONTROL" },
+    { "Label": "ACCU-CHEK GUIDE ME", "Value": "ACCU-CHEK GUIDE ME" },
+    {
+      "Label": "ACCU-CHEK MULTICLIX LANCET DEV",
+      "Value": "ACCU-CHEK MULTICLIX LANCET DEV"
+    },
+    {
+      "Label": "ACCU-CHEK MULTICLIX LANCETS",
+      "Value": "ACCU-CHEK MULTICLIX LANCETS"
+    },
+    {
+      "Label": "ACCU-CHEK NANO SMARTVIEW",
+      "Value": "ACCU-CHEK NANO SMARTVIEW"
+    },
+    { "Label": "ACCU-CHEK SMARTVIEW", "Value": "ACCU-CHEK SMARTVIEW" },
+    {
+      "Label": "ACCU-CHEK SMARTVIEW CONTROL",
+      "Value": "ACCU-CHEK SMARTVIEW CONTROL"
+    },
+    {
+      "Label": "ACCU-CHEK SOFTCLIX LANCET DEV",
+      "Value": "ACCU-CHEK SOFTCLIX LANCET DEV"
+    },
+    {
+      "Label": "ACCU-CHEK SOFTCLIX LANCETS",
+      "Value": "ACCU-CHEK SOFTCLIX LANCETS"
+    },
+    { "Label": "ACCUTREND GLUCOSE", "Value": "ACCUTREND GLUCOSE" },
+    {
+      "Label": "ACCUTREND GLUCOSE CONTROL",
+      "Value": "ACCUTREND GLUCOSE CONTROL"
+    },
+    { "Label": "acebutolol hcl", "Value": "acebutolol hcl" },
+    { "Label": "acetaminophen-codeine", "Value": "acetaminophen-codeine" },
+    {
+      "Label": "acetaminophen-codeine #2",
+      "Value": "acetaminophen-codeine #2"
+    },
+    {
+      "Label": "acetaminophen-codeine #3",
+      "Value": "acetaminophen-codeine #3"
+    },
+    {
+      "Label": "acetaminophen-codeine #4",
+      "Value": "acetaminophen-codeine #4"
+    },
+    { "Label": "Acetasol Hc", "Value": "Acetasol Hc" },
+    { "Label": "acetazolamide", "Value": "acetazolamide" },
+    { "Label": "acetazolamide er", "Value": "acetazolamide er" },
+    { "Label": "acetic acid", "Value": "acetic acid" },
+    { "Label": "acetylcysteine", "Value": "acetylcysteine" },
+    { "Label": "acitretin", "Value": "acitretin" },
+    { "Label": "ACTHIB", "Value": "ACTHIB" },
+    { "Label": "acti-lance 28g", "Value": "acti-lance 28g" },
+    {
+      "Label": "acti-lance lite lancets 28g",
+      "Value": "acti-lance lite lancets 28g"
+    },
+    {
+      "Label": "acti-lance special lancets 17g",
+      "Value": "acti-lance special lancets 17g"
+    },
+    { "Label": "acyclovir", "Value": "acyclovir" },
+    { "Label": "ADACEL", "Value": "ADACEL" },
+    { "Label": "adapalene", "Value": "adapalene" },
+    {
+      "Label": "adapalene-benzoyl peroxide",
+      "Value": "adapalene-benzoyl peroxide"
+    },
+    { "Label": "adc/f (0", "Value": "adc/f (0" },
+    { "Label": "adefovir dipivoxil", "Value": "adefovir dipivoxil" },
+    { "Label": "ADEMPAS", "Value": "ADEMPAS" },
+    { "Label": "ADVAIR HFA", "Value": "ADVAIR HFA" },
+    { "Label": "Afeditab Cr", "Value": "Afeditab Cr" },
+    { "Label": "AFINITOR", "Value": "AFINITOR" },
+    { "Label": "AFINITOR DISPERZ", "Value": "AFINITOR DISPERZ" },
+    { "Label": "Afirmelle", "Value": "Afirmelle" },
+    { "Label": "AFLURIA QUADRIVALENT", "Value": "AFLURIA QUADRIVALENT" },
+    { "Label": "AFTERA", "Value": "AFTERA" },
+    {
+      "Label": "AIRIAL COMPACT COMPRESSOR NEB",
+      "Value": "AIRIAL COMPACT COMPRESSOR NEB"
+    },
+    {
+      "Label": "AIRIAL COMPACT MINI NEBULIZER",
+      "Value": "AIRIAL COMPACT MINI NEBULIZER"
+    },
+    {
+      "Label": "AIRIAL COMPRESS PED NEBULIZER",
+      "Value": "AIRIAL COMPRESS PED NEBULIZER"
+    },
+    {
+      "Label": "AIRIAL PEDIATRIC NEBULIZER",
+      "Value": "AIRIAL PEDIATRIC NEBULIZER"
+    },
+    {
+      "Label": "AIRIAL VOYAGER NEBULIZER",
+      "Value": "AIRIAL VOYAGER NEBULIZER"
+    },
+    { "Label": "ak-poly-bac", "Value": "ak-poly-bac" },
+    { "Label": "albuterol sulfate", "Value": "albuterol sulfate" },
+    { "Label": "ALBUTEROL SULFATE HFA", "Value": "ALBUTEROL SULFATE HFA" },
+    {
+      "Label": "alclometasone dipropionate",
+      "Value": "alclometasone dipropionate"
+    },
+    { "Label": "alendronate sodium", "Value": "alendronate sodium" },
+    { "Label": "ALFERON N", "Value": "ALFERON N" },
+    { "Label": "alfuzosin hcl er", "Value": "alfuzosin hcl er" },
+    { "Label": "ALINIA", "Value": "ALINIA" },
+    { "Label": "allergy 24-hr", "Value": "allergy 24-hr" },
+    { "Label": "allopurinol", "Value": "allopurinol" },
+    { "Label": "ALOCRIL", "Value": "ALOCRIL" },
+    { "Label": "alogliptin benzoate", "Value": "alogliptin benzoate" },
+    { "Label": "ALOMIDE", "Value": "ALOMIDE" },
+    { "Label": "alprazolam", "Value": "alprazolam" },
+    { "Label": "ALTABAX", "Value": "ALTABAX" },
+    { "Label": "Altavera", "Value": "Altavera" },
+    { "Label": "alyacen 1/35", "Value": "alyacen 1/35" },
+    { "Label": "alyacen 7/7/7", "Value": "alyacen 7/7/7" },
+    { "Label": "Alyq", "Value": "Alyq" },
+    { "Label": "Amabelz", "Value": "Amabelz" },
+    { "Label": "amantadine hcl", "Value": "amantadine hcl" },
+    { "Label": "ambrisentan", "Value": "ambrisentan" },
+    { "Label": "amcinonide", "Value": "amcinonide" },
+    { "Label": "Amethia", "Value": "Amethia" },
+    { "Label": "Amethia Lo", "Value": "Amethia Lo" },
+    { "Label": "Amethyst", "Value": "Amethyst" },
+    { "Label": "amiloride hcl", "Value": "amiloride hcl" },
+    {
+      "Label": "amiloride-hydrochlorothiazide",
+      "Value": "amiloride-hydrochlorothiazide"
+    },
+    { "Label": "Aminoamrms", "Value": "Aminoamrms" },
+    { "Label": "AMITIZA", "Value": "AMITIZA" },
+    { "Label": "amitriptyline hcl", "Value": "amitriptyline hcl" },
+    {
+      "Label": "amlodipine besy-benazepril hcl",
+      "Value": "amlodipine besy-benazepril hcl"
+    },
+    { "Label": "amlodipine besylate", "Value": "amlodipine besylate" },
+    {
+      "Label": "amlodipine besylate-valsartan",
+      "Value": "amlodipine besylate-valsartan"
+    },
+    { "Label": "amlodipine-atorvastatin", "Value": "amlodipine-atorvastatin" },
+    {
+      "Label": "amlodipine-valsartan-hctz",
+      "Value": "amlodipine-valsartan-hctz"
+    },
+    { "Label": "ammonium lactate", "Value": "ammonium lactate" },
+    { "Label": "Amnesteem", "Value": "Amnesteem" },
+    { "Label": "amoxapine", "Value": "amoxapine" },
+    { "Label": "amoxicillin", "Value": "amoxicillin" },
+    {
+      "Label": "amoxicillin-pot clavulanate",
+      "Value": "amoxicillin-pot clavulanate"
+    },
+    {
+      "Label": "amoxicillin-pot clavulanate er",
+      "Value": "amoxicillin-pot clavulanate er"
+    },
+    {
+      "Label": "amphetamine-dextroamphet er",
+      "Value": "amphetamine-dextroamphet er"
+    },
+    {
+      "Label": "amphetaminedextroamphetamine",
+      "Value": "amphetaminedextroamphetamine"
+    },
+    { "Label": "ampicillin", "Value": "ampicillin" },
+    { "Label": "anagrelide hcl", "Value": "anagrelide hcl" },
+    { "Label": "anastrozole", "Value": "anastrozole" },
+    { "Label": "APOKYN", "Value": "APOKYN" },
+    { "Label": "apraclonidine hcl", "Value": "apraclonidine hcl" },
+    { "Label": "Apri", "Value": "Apri" },
+    { "Label": "APRISO", "Value": "APRISO" },
+    { "Label": "APTIVUS", "Value": "APTIVUS" },
+    { "Label": "Aranelle", "Value": "Aranelle" },
+    { "Label": "ARANESP (ALBUMIN FREE)", "Value": "ARANESP (ALBUMIN FREE)" },
+    { "Label": "aripiprazole", "Value": "aripiprazole" },
+    { "Label": "Ascomp-Codeine", "Value": "Ascomp-Codeine" },
+    { "Label": "Ashlyna", "Value": "Ashlyna" },
+    {
+      "Label": "ASMANEX (120 METERED DOSES)",
+      "Value": "ASMANEX (120 METERED DOSES)"
+    },
+    {
+      "Label": "ASMANEX (14 METERED DOSES)",
+      "Value": "ASMANEX (14 METERED DOSES)"
+    },
+    {
+      "Label": "ASMANEX (30 METERED DOSES)",
+      "Value": "ASMANEX (30 METERED DOSES)"
+    },
+    {
+      "Label": "ASMANEX (60 METERED DOSES)",
+      "Value": "ASMANEX (60 METERED DOSES)"
+    },
+    {
+      "Label": "ASMANEX (7 METERED DOSES)",
+      "Value": "ASMANEX (7 METERED DOSES)"
+    },
+    { "Label": "aspirin-dipyridamole er", "Value": "aspirin-dipyridamole er" },
+    { "Label": "ASTHMAPACK I", "Value": "ASTHMAPACK I" },
+    { "Label": "ASTHMAPACK II", "Value": "ASTHMAPACK II" },
+    { "Label": "ASTHMAPACK III", "Value": "ASTHMAPACK III" },
+    { "Label": "ATABEX EC", "Value": "ATABEX EC" },
+    { "Label": "ATABEX OB", "Value": "ATABEX OB" },
+    { "Label": "atazanavir sulfate", "Value": "atazanavir sulfate" },
+    { "Label": "atenolol", "Value": "atenolol" },
+    { "Label": "atenolol-chlorthalidone", "Value": "atenolol-chlorthalidone" },
+    { "Label": "atomoxetine hcl", "Value": "atomoxetine hcl" },
+    { "Label": "atorvastatin calcium", "Value": "atorvastatin calcium" },
+    {
+      "Label": "atovaquone-proguanil hcl",
+      "Value": "atovaquone-proguanil hcl"
+    },
+    { "Label": "Aubra", "Value": "Aubra" },
+    { "Label": "Aubra Eq", "Value": "Aubra Eq" },
+    { "Label": "Aurovela 1", "Value": "Aurovela 1" },
+    { "Label": "Aurovela 1/20", "Value": "Aurovela 1/20" },
+    { "Label": "Aurovela 24 Fe", "Value": "Aurovela 24 Fe" },
+    { "Label": "Aurovela Fe 1", "Value": "Aurovela Fe 1" },
+    { "Label": "Aurovela Fe 1/20", "Value": "Aurovela Fe 1/20" },
+    { "Label": "Aviane", "Value": "Aviane" },
+    { "Label": "avidoxy", "Value": "avidoxy" },
+    { "Label": "Avita", "Value": "Avita" },
+    { "Label": "AVONEX PEN", "Value": "AVONEX PEN" },
+    { "Label": "AVONEX PREFILLED", "Value": "AVONEX PREFILLED" },
+    { "Label": "Ayuna", "Value": "Ayuna" },
+    { "Label": "azathioprine", "Value": "azathioprine" },
+    { "Label": "azelaic acid", "Value": "azelaic acid" },
+    { "Label": "azelastine hcl", "Value": "azelastine hcl" },
+    { "Label": "azithromycin", "Value": "azithromycin" },
+    { "Label": "Azurette", "Value": "Azurette" },
+    { "Label": "b-plex", "Value": "b-plex" },
+    {
+      "Label": "bacitra-neomycin-polymyxin-hc",
+      "Value": "bacitra-neomycin-polymyxin-hc"
+    },
+    { "Label": "bacitracin", "Value": "bacitracin" },
+    { "Label": "bacitracin-polymyxin b", "Value": "bacitracin-polymyxin b" },
+    { "Label": "baclofen", "Value": "baclofen" },
+    { "Label": "BAL-CARE DHA", "Value": "BAL-CARE DHA" },
+    { "Label": "BALCOLTRA", "Value": "BALCOLTRA" },
+    { "Label": "balsalazide disodium", "Value": "balsalazide disodium" },
+    { "Label": "Balziva", "Value": "Balziva" },
+    { "Label": "BARACLUDE", "Value": "BARACLUDE" },
+    {
+      "Label": "BAYER ASPIRIN EXTRA STRENGTH",
+      "Value": "BAYER ASPIRIN EXTRA STRENGTH"
+    },
+    {
+      "Label": "BD INSULIN SYR ULTRAFINE II",
+      "Value": "BD INSULIN SYR ULTRAFINE II"
+    },
+    { "Label": "BD INSULIN SYRINGE", "Value": "BD INSULIN SYRINGE" },
+    {
+      "Label": "BD INSULIN SYRINGE ULTRAFINE",
+      "Value": "BD INSULIN SYRINGE ULTRAFINE"
+    },
+    { "Label": "Bekyree", "Value": "Bekyree" },
+    { "Label": "benazepril hcl", "Value": "benazepril hcl" },
+    {
+      "Label": "benazepril-hydrochlorothiazide",
+      "Value": "benazepril-hydrochlorothiazide"
+    },
+    { "Label": "benzonatate", "Value": "benzonatate" },
+    { "Label": "benzoyl peroxide", "Value": "benzoyl peroxide" },
+    {
+      "Label": "benzoyl peroxide-erythromycin",
+      "Value": "benzoyl peroxide-erythromycin"
+    },
+    { "Label": "benztropine mesylate", "Value": "benztropine mesylate" },
+    { "Label": "BERINERT", "Value": "BERINERT" },
+    { "Label": "Beser", "Value": "Beser" },
+    { "Label": "BESIVANCE", "Value": "BESIVANCE" },
+    {
+      "Label": "betamethasone dipropionate",
+      "Value": "betamethasone dipropionate"
+    },
+    {
+      "Label": "betamethasone dipropionate aug 57",
+      "Value": "betamethasone dipropionate aug 57"
+    },
+    { "Label": "betamethasone valerate", "Value": "betamethasone valerate" },
+    { "Label": "betaxolol hcl", "Value": "betaxolol hcl" },
+    { "Label": "bethanechol chloride", "Value": "bethanechol chloride" },
+    { "Label": "bexarotene", "Value": "bexarotene" },
+    { "Label": "BEXSERO", "Value": "BEXSERO" },
+    { "Label": "bicalutamide", "Value": "bicalutamide" },
+    { "Label": "BIKTARVY", "Value": "BIKTARVY" },
+    { "Label": "bimatoprost", "Value": "bimatoprost" },
+    { "Label": "bio-statin", "Value": "bio-statin" },
+    { "Label": "bisoprolol fumarate", "Value": "bisoprolol fumarate" },
+    {
+      "Label": "bisoprolol-hydrochlorothiazide",
+      "Value": "bisoprolol-hydrochlorothiazide"
+    },
+    { "Label": "Blisovi 24 Fe", "Value": "Blisovi 24 Fe" },
+    { "Label": "Blisovi Fe 1", "Value": "Blisovi Fe 1" },
+    { "Label": "Blisovi Fe 1/20", "Value": "Blisovi Fe 1/20" },
+    { "Label": "BOOSTRIX", "Value": "BOOSTRIX" },
+    { "Label": "BOSULIF", "Value": "BOSULIF" },
+    { "Label": "bp 10-1", "Value": "bp 10-1" },
+    { "Label": "bp cleansing wash", "Value": "bp cleansing wash" },
+    { "Label": "bpo foaming cloths", "Value": "bpo foaming cloths" },
+    { "Label": "briellyn", "Value": "briellyn" },
+    { "Label": "brimonidine tartrate", "Value": "brimonidine tartrate" },
+    { "Label": "Bromfed Dm", "Value": "Bromfed Dm" },
+    { "Label": "bromocriptine mesylate", "Value": "bromocriptine mesylate" },
+    { "Label": "budesonide", "Value": "budesonide" },
+    {
+      "Label": "budesonide-formoterol fumarate",
+      "Value": "budesonide-formoterol fumarate"
+    },
+    { "Label": "buprenorphine hcl", "Value": "buprenorphine hcl" },
+    {
+      "Label": "buprenorphine hcl-naloxone hcl",
+      "Value": "buprenorphine hcl-naloxone hcl"
+    },
+    { "Label": "bupropion hcl", "Value": "bupropion hcl" },
+    {
+      "Label": "bupropion hcl er (smoking det)",
+      "Value": "bupropion hcl er (smoking det)"
+    },
+    { "Label": "bupropion hcl er (sr)", "Value": "bupropion hcl er (sr)" },
+    { "Label": "bupropion hcl er (xl)", "Value": "bupropion hcl er (xl)" },
+    { "Label": "buspirone hcl", "Value": "buspirone hcl" },
+    {
+      "Label": "butalbital-acetaminophen",
+      "Value": "butalbital-acetaminophen"
+    },
+    {
+      "Label": "butalbital-apap-caff-cod",
+      "Value": "butalbital-apap-caff-cod"
+    },
+    {
+      "Label": "butalbital-apap-caffeine",
+      "Value": "butalbital-apap-caffeine"
+    },
+    {
+      "Label": "butalbital-asa-caff-codeine",
+      "Value": "butalbital-asa-caff-codeine"
+    },
+    { "Label": "butalbital-asa-caffeine", "Value": "butalbital-asa-caffeine" },
+    {
+      "Label": "butalbital-aspirin-caffeine",
+      "Value": "butalbital-aspirin-caffeine"
+    },
+    { "Label": "butorphanol tartrate", "Value": "butorphanol tartrate" },
+    { "Label": "cabergoline", "Value": "cabergoline" },
+    { "Label": "cadeau dha", "Value": "cadeau dha" },
+    { "Label": "calcipotriene", "Value": "calcipotriene" },
+    {
+      "Label": "calcipotriene-betameth diprop",
+      "Value": "calcipotriene-betameth diprop"
+    },
+    { "Label": "calcitonin (salmon)", "Value": "calcitonin (salmon)" },
+    { "Label": "Calcitrene", "Value": "Calcitrene" },
+    { "Label": "calcium + d3", "Value": "calcium + d3" },
+    { "Label": "calcium acetate", "Value": "calcium acetate" },
+    {
+      "Label": "calcium acetate (phos binder)",
+      "Value": "calcium acetate (phos binder)"
+    },
+    { "Label": "Camila", "Value": "Camila" },
+    { "Label": "Camrese", "Value": "Camrese" },
+    { "Label": "Camrese Lo", "Value": "Camrese Lo" },
+    {
+      "Label": "candesartan cilexetil-hctz",
+      "Value": "candesartan cilexetil-hctz"
+    },
+    { "Label": "capecitabine", "Value": "capecitabine" },
+    { "Label": "CAPRELSA", "Value": "CAPRELSA" },
+    { "Label": "CARAFATE", "Value": "CARAFATE" },
+    { "Label": "CARBAGLU", "Value": "CARBAGLU" },
+    { "Label": "carbamazepine", "Value": "carbamazepine" },
+    { "Label": "carbamazepine er", "Value": "carbamazepine er" },
+    { "Label": "carbidopa", "Value": "carbidopa" },
+    { "Label": "carbidopa-levodopa", "Value": "carbidopa-levodopa" },
+    { "Label": "carbidopa-levodopa er", "Value": "carbidopa-levodopa er" },
+    { "Label": "carbinoxamine maleate", "Value": "carbinoxamine maleate" },
+    { "Label": "CARE", "Value": "CARE" },
+    { "Label": "carteolol hcl", "Value": "carteolol hcl" },
+    { "Label": "Cartia Xt", "Value": "Cartia Xt" },
+    { "Label": "carvedilol", "Value": "carvedilol" },
+    { "Label": "Cavarest", "Value": "Cavarest" },
+    { "Label": "CAYA", "Value": "CAYA" },
+    { "Label": "CAYSTON", "Value": "CAYSTON" },
+    { "Label": "Caziant", "Value": "Caziant" },
+    { "Label": "cefaclor", "Value": "cefaclor" },
+    { "Label": "cefaclor er", "Value": "cefaclor er" },
+    { "Label": "cefadroxil", "Value": "cefadroxil" },
+    { "Label": "cefdinir", "Value": "cefdinir" },
+    { "Label": "cefditoren pivoxil", "Value": "cefditoren pivoxil" },
+    { "Label": "cefixime", "Value": "cefixime" },
+    { "Label": "cefpodoxime proxetil", "Value": "cefpodoxime proxetil" },
+    { "Label": "cefprozil", "Value": "cefprozil" },
+    { "Label": "cefuroxime axetil", "Value": "cefuroxime axetil" },
+    { "Label": "cephalexin", "Value": "cephalexin" },
+    { "Label": "cevimeline hcl", "Value": "cevimeline hcl" },
+    { "Label": "CHANTIX", "Value": "CHANTIX" },
+    {
+      "Label": "CHANTIX CONTINUING MONTH PAK",
+      "Value": "CHANTIX CONTINUING MONTH PAK"
+    },
+    {
+      "Label": "CHANTIX STARTING MONTH PAK",
+      "Value": "CHANTIX STARTING MONTH PAK"
+    },
+    { "Label": "Chateal", "Value": "Chateal" },
+    { "Label": "Chateal Eq", "Value": "Chateal Eq" },
+    { "Label": "CHEMET", "Value": "CHEMET" },
+    { "Label": "cheratussin ac", "Value": "cheratussin ac" },
+    { "Label": "chlorhexidine gluconate", "Value": "chlorhexidine gluconate" },
+    { "Label": "chloroquine phosphate", "Value": "chloroquine phosphate" },
+    { "Label": "chlorpromazine hcl", "Value": "chlorpromazine hcl" },
+    { "Label": "chlorthalidone", "Value": "chlorthalidone" },
+    { "Label": "chlorzoxazone", "Value": "chlorzoxazone" },
+    { "Label": "chorionic gonadotropin", "Value": "chorionic gonadotropin" },
+    { "Label": "ciclopirox", "Value": "ciclopirox" },
+    { "Label": "ciclopirox olamine", "Value": "ciclopirox olamine" },
+    { "Label": "cilostazol", "Value": "cilostazol" },
+    { "Label": "cimetidine", "Value": "cimetidine" },
+    { "Label": "cimetidine 200", "Value": "cimetidine 200" },
+    { "Label": "cimetidine hcl", "Value": "cimetidine hcl" },
+    { "Label": "cinacalcet hcl", "Value": "cinacalcet hcl" },
+    { "Label": "CIPRODEX", "Value": "CIPRODEX" },
+    { "Label": "ciprofloxacin hcl", "Value": "ciprofloxacin hcl" },
+    { "Label": "citalopram hydrobromide", "Value": "citalopram hydrobromide" },
+    { "Label": "CITRANATAL B-CALM", "Value": "CITRANATAL B-CALM" },
+    { "Label": "Claravis", "Value": "Claravis" },
+    { "Label": "clarithromycin", "Value": "clarithromycin" },
+    { "Label": "clarithromycin er", "Value": "clarithromycin er" },
+    { "Label": "clemastine fumarate", "Value": "clemastine fumarate" },
+    { "Label": "Clindacin Etz", "Value": "Clindacin Etz" },
+    { "Label": "Clindacin-P", "Value": "Clindacin-P" },
+    { "Label": "clindamycin hcl", "Value": "clindamycin hcl" },
+    {
+      "Label": "clindamycin palmitate hcl",
+      "Value": "clindamycin palmitate hcl"
+    },
+    {
+      "Label": "clindamycin phos-benzoyl perox",
+      "Value": "clindamycin phos-benzoyl perox"
+    },
+    { "Label": "clindamycin phosphate", "Value": "clindamycin phosphate" },
+    { "Label": "Clinpro 5000", "Value": "Clinpro 5000" },
+    {
+      "Label": "clobetasol prop emollient base",
+      "Value": "clobetasol prop emollient base"
+    },
+    { "Label": "clobetasol propionate", "Value": "clobetasol propionate" },
+    { "Label": "clobetasol propionate e", "Value": "clobetasol propionate e" },
+    {
+      "Label": "clobetasol propionate emulsion",
+      "Value": "clobetasol propionate emulsion"
+    },
+    { "Label": "clocortolone pivalate", "Value": "clocortolone pivalate" },
+    { "Label": "Clodan", "Value": "Clodan" },
+    { "Label": "clomipramine hcl", "Value": "clomipramine hcl" },
+    { "Label": "clonazepam", "Value": "clonazepam" },
+    { "Label": "clonidine hcl", "Value": "clonidine hcl" },
+    { "Label": "clopidogrel bisulfate", "Value": "clopidogrel bisulfate" },
+    { "Label": "clotrimazole", "Value": "clotrimazole" },
+    { "Label": "clotrimazole af", "Value": "clotrimazole af" },
+    {
+      "Label": "clotrimazole anti-fungal",
+      "Value": "clotrimazole anti-fungal"
+    },
+    { "Label": "CLOTRIMAZOLE GRX", "Value": "CLOTRIMAZOLE GRX" },
+    {
+      "Label": "clotrimazole-betamethasone",
+      "Value": "clotrimazole-betamethasone"
+    },
+    { "Label": "Clovique", "Value": "Clovique" },
+    { "Label": "clozapine", "Value": "clozapine" },
+    { "Label": "CO-NATAL FA", "Value": "CO-NATAL FA" },
+    { "Label": "COARTEM", "Value": "COARTEM" },
+    { "Label": "codeine sulfate", "Value": "codeine sulfate" },
+    { "Label": "colchicine", "Value": "colchicine" },
+    { "Label": "colchicine-probenecid", "Value": "colchicine-probenecid" },
+    { "Label": "colesevelam hcl", "Value": "colesevelam hcl" },
+    { "Label": "Colocort", "Value": "Colocort" },
+    {
+      "Label": "COMETRIQ (100 MG DAILY DOSE)",
+      "Value": "COMETRIQ (100 MG DAILY DOSE)"
+    },
+    {
+      "Label": "COMETRIQ (140 MG DAILY DOSE)",
+      "Value": "COMETRIQ (140 MG DAILY DOSE)"
+    },
+    {
+      "Label": "COMETRIQ (60 MG DAILY DOSE)",
+      "Value": "COMETRIQ (60 MG DAILY DOSE)"
+    },
+    {
+      "Label": "COMP AIR ELITE COMPACT NEB",
+      "Value": "COMP AIR ELITE COMPACT NEB"
+    },
+    {
+      "Label": "COMP-AIR ELITE COMPACT NEB",
+      "Value": "COMP-AIR ELITE COMPACT NEB"
+    },
+    { "Label": "COMPAIR XLT NEBULIZER", "Value": "COMPAIR XLT NEBULIZER" },
+    { "Label": "complete natal dha", "Value": "complete natal dha" },
+    { "Label": "completenate", "Value": "completenate" },
+    { "Label": "compressor nebulizer", "Value": "compressor nebulizer" },
+    { "Label": "CONCEPT DHA", "Value": "CONCEPT DHA" },
+    { "Label": "CONCEPT OB", "Value": "CONCEPT OB" },
+    { "Label": "constulose", "Value": "constulose" },
+    { "Label": "CONTROL", "Value": "CONTROL" },
+    { "Label": "Coremino", "Value": "Coremino" },
+    { "Label": "Cortic-Nd", "Value": "Cortic-Nd" },
+    { "Label": "cortisone acetate", "Value": "cortisone acetate" },
+    { "Label": "CORTISPORIN", "Value": "CORTISPORIN" },
+    { "Label": "CRIXIVAN", "Value": "CRIXIVAN" },
+    { "Label": "cromolyn sodium", "Value": "cromolyn sodium" },
+    { "Label": "crono syringe", "Value": "crono syringe" },
+    { "Label": "Cryselle-28", "Value": "Cryselle-28" },
+    { "Label": "Curity Sterile Saline", "Value": "Curity Sterile Saline" },
+    { "Label": "cvs clotrimazole", "Value": "cvs clotrimazole" },
+    { "Label": "cvs heartburn relief", "Value": "cvs heartburn relief" },
+    { "Label": "cvs lansoprazole", "Value": "cvs lansoprazole" },
+    { "Label": "cvs sleep aid nighttime", "Value": "cvs sleep aid nighttime" },
+    { "Label": "cyanocobalamin", "Value": "cyanocobalamin" },
+    { "Label": "Cyclafem 1/35", "Value": "Cyclafem 1/35" },
+    { "Label": "Cyclafem 7/7/7", "Value": "Cyclafem 7/7/7" },
+    { "Label": "cyclobenzaprine hcl", "Value": "cyclobenzaprine hcl" },
+    { "Label": "cyclophosphamide", "Value": "cyclophosphamide" },
+    { "Label": "cycloserine", "Value": "cycloserine" },
+    { "Label": "cyclosporine", "Value": "cyclosporine" },
+    { "Label": "cyclosporine modified", "Value": "cyclosporine modified" },
+    { "Label": "cyproheptadine hcl", "Value": "cyproheptadine hcl" },
+    { "Label": "Cyred", "Value": "Cyred" },
+    { "Label": "Cyred Eq", "Value": "Cyred Eq" },
+    { "Label": "CYSTADANE", "Value": "CYSTADANE" },
+    { "Label": "DALIRESP", "Value": "DALIRESP" },
+    { "Label": "danazol", "Value": "danazol" },
+    { "Label": "dantrolene sodium", "Value": "dantrolene sodium" },
+    { "Label": "dapsone", "Value": "dapsone" },
+    { "Label": "DAPTACEL", "Value": "DAPTACEL" },
+    { "Label": "DARAPRIM", "Value": "DARAPRIM" },
+    { "Label": "Dasetta 1/35", "Value": "Dasetta 1/35" },
+    { "Label": "Dasetta 7/7/7", "Value": "Dasetta 7/7/7" },
+    { "Label": "Daysee", "Value": "Daysee" },
+    { "Label": "Deblitane", "Value": "Deblitane" },
+    { "Label": "Decadron", "Value": "Decadron" },
+    { "Label": "Delyla", "Value": "Delyla" },
+    { "Label": "demeclocycline hcl", "Value": "demeclocycline hcl" },
+    { "Label": "Dentagel", "Value": "Dentagel" },
+    { "Label": "DEPEN TITRATABS", "Value": "DEPEN TITRATABS" },
+    { "Label": "desipramine hcl", "Value": "desipramine hcl" },
+    { "Label": "desloratadine", "Value": "desloratadine" },
+    {
+      "Label": "desmopressin ace spray refrig",
+      "Value": "desmopressin ace spray refrig"
+    },
+    { "Label": "desmopressin acetate", "Value": "desmopressin acetate" },
+    {
+      "Label": "desmopressin acetate spray",
+      "Value": "desmopressin acetate spray"
+    },
+    {
+      "Label": "desogestrel-ethinyl estradiol",
+      "Value": "desogestrel-ethinyl estradiol"
+    },
+    { "Label": "desonide", "Value": "desonide" },
+    { "Label": "desoximetasone", "Value": "desoximetasone" },
+    {
+      "Label": "desvenlafaxine succinate er",
+      "Value": "desvenlafaxine succinate er"
+    },
+    { "Label": "dexamethasone", "Value": "dexamethasone" },
+    {
+      "Label": "dexamethasone sodium phosphate",
+      "Value": "dexamethasone sodium phosphate"
+    },
+    { "Label": "dexmethylphenidate hcl", "Value": "dexmethylphenidate hcl" },
+    {
+      "Label": "dexmethylphenidate hcl er",
+      "Value": "dexmethylphenidate hcl er"
+    },
+    {
+      "Label": "dextroamphetamine sulfate",
+      "Value": "dextroamphetamine sulfate"
+    },
+    {
+      "Label": "dextroamphetamine sulfate er",
+      "Value": "dextroamphetamine sulfate er"
+    },
+    {
+      "Label": "dialysis safety syringe/needle",
+      "Value": "dialysis safety syringe/needle"
+    },
+    { "Label": "diazepam", "Value": "diazepam" },
+    { "Label": "Diazepam Intensol", "Value": "Diazepam Intensol" },
+    { "Label": "diclofenac potassium", "Value": "diclofenac potassium" },
+    { "Label": "diclofenac sodium", "Value": "diclofenac sodium" },
+    { "Label": "diclofenac sodium er", "Value": "diclofenac sodium er" },
+    { "Label": "dicloxacillin sodium", "Value": "dicloxacillin sodium" },
+    { "Label": "dicyclomine hcl", "Value": "dicyclomine hcl" },
+    { "Label": "didanosine", "Value": "didanosine" },
+    { "Label": "diflorasone diacetate", "Value": "diflorasone diacetate" },
+    { "Label": "diflunisal", "Value": "diflunisal" },
+    { "Label": "Digitek", "Value": "Digitek" },
+    { "Label": "Digox", "Value": "Digox" },
+    { "Label": "digoxin", "Value": "digoxin" },
+    {
+      "Label": "dihydroergotamine mesylate",
+      "Value": "dihydroergotamine mesylate"
+    },
+    { "Label": "DILANTIN", "Value": "DILANTIN" },
+    { "Label": "dilt-xr", "Value": "dilt-xr" },
+    { "Label": "diltiazem hcl", "Value": "diltiazem hcl" },
+    { "Label": "diltiazem hcl er", "Value": "diltiazem hcl er" },
+    { "Label": "diltiazem hcl er beads", "Value": "diltiazem hcl er beads" },
+    {
+      "Label": "diltiazem hcl er coated beads",
+      "Value": "diltiazem hcl er coated beads"
+    },
+    { "Label": "diphenhydramine hcl", "Value": "diphenhydramine hcl" },
+    { "Label": "diphenoxylate-atropine", "Value": "diphenoxylate-atropine" },
+    {
+      "Label": "diphtheria-tetanus toxoids dt",
+      "Value": "diphtheria-tetanus toxoids dt"
+    },
+    { "Label": "dipyridamole", "Value": "dipyridamole" },
+    { "Label": "disopyramide phosphate", "Value": "disopyramide phosphate" },
+    { "Label": "disulfiram", "Value": "disulfiram" },
+    { "Label": "divalproex sodium", "Value": "divalproex sodium" },
+    { "Label": "divalproex sodium er", "Value": "divalproex sodium er" },
+    { "Label": "dofetilide", "Value": "dofetilide" },
+    { "Label": "dorzolamide hcl", "Value": "dorzolamide hcl" },
+    {
+      "Label": "dorzolamide hcl-timolol mal",
+      "Value": "dorzolamide hcl-timolol mal"
+    },
+    { "Label": "Dotti", "Value": "Dotti" },
+    { "Label": "doxazosin mesylate", "Value": "doxazosin mesylate" },
+    { "Label": "doxepin hcl", "Value": "doxepin hcl" },
+    { "Label": "doxycycline", "Value": "doxycycline" },
+    { "Label": "doxycycline hyclate", "Value": "doxycycline hyclate" },
+    { "Label": "doxycycline monohydrate", "Value": "doxycycline monohydrate" },
+    { "Label": "DROPLET INSULIN SYRINGE", "Value": "DROPLET INSULIN SYRINGE" },
+    {
+      "Label": "drospiren-eth estrad-levomefol",
+      "Value": "drospiren-eth estrad-levomefol"
+    },
+    {
+      "Label": "drospirenone-ethinyl estradiol",
+      "Value": "drospirenone-ethinyl estradiol"
+    },
+    { "Label": "DROXIA", "Value": "DROXIA" },
+    { "Label": "DULERA", "Value": "DULERA" },
+    { "Label": "duloxetine hcl", "Value": "duloxetine hcl" },
+    { "Label": "DYRENIUM", "Value": "DYRENIUM" },
+    { "Label": "E", "Value": "E" },
+    {
+      "Label": "E-Z JECT LANCET MICRO-THIN 33G",
+      "Value": "E-Z JECT LANCET MICRO-THIN 33G"
+    },
+    {
+      "Label": "E-Z JECT LANCET SUPER THIN 30G",
+      "Value": "E-Z JECT LANCET SUPER THIN 30G"
+    },
+    { "Label": "E-Z JECT LANCETS", "Value": "E-Z JECT LANCETS" },
+    { "Label": "E-Z JECT LANCETS 21G", "Value": "E-Z JECT LANCETS 21G" },
+    {
+      "Label": "easy comfort insulin syringe",
+      "Value": "easy comfort insulin syringe"
+    },
+    { "Label": "EASY TOUCH PEN NEEDLES", "Value": "EASY TOUCH PEN NEEDLES" },
+    { "Label": "econazole nitrate", "Value": "econazole nitrate" },
+    { "Label": "ECONTRA EZ", "Value": "ECONTRA EZ" },
+    { "Label": "ECONTRA ONE-STEP", "Value": "ECONTRA ONE-STEP" },
+    { "Label": "EDURANT", "Value": "EDURANT" },
+    { "Label": "efavirenz", "Value": "efavirenz" },
+    { "Label": "EFFER-K", "Value": "EFFER-K" },
+    { "Label": "Effer-K", "Value": "Effer-K" },
+    {
+      "Label": "EFLOW SCF ELECTRONIC NEBULIZER",
+      "Value": "EFLOW SCF ELECTRONIC NEBULIZER"
+    },
+    {
+      "Label": "EFLOW SCF NEBULIZER HANDSET",
+      "Value": "EFLOW SCF NEBULIZER HANDSET"
+    },
+    { "Label": "Elinest", "Value": "Elinest" },
+    { "Label": "ELIQUIS", "Value": "ELIQUIS" },
+    {
+      "Label": "ELIQUIS DVT/PE STARTER PACK",
+      "Value": "ELIQUIS DVT/PE STARTER PACK"
+    },
+    { "Label": "ELITE NEBULIZER SYSTEM", "Value": "ELITE NEBULIZER SYSTEM" },
+    { "Label": "ELITE-OB", "Value": "ELITE-OB" },
+    {
+      "Label": "elite-thin insulin syringe",
+      "Value": "elite-thin insulin syringe"
+    },
+    { "Label": "ELLA", "Value": "ELLA" },
+    { "Label": "ELMIRON", "Value": "ELMIRON" },
+    { "Label": "Eluryng", "Value": "Eluryng" },
+    { "Label": "EMCYT", "Value": "EMCYT" },
+    { "Label": "Emoquette", "Value": "Emoquette" },
+    { "Label": "EMTRIVA", "Value": "EMTRIVA" },
+    { "Label": "enalapril maleate", "Value": "enalapril maleate" },
+    {
+      "Label": "enalapril-hydrochlorothiazide",
+      "Value": "enalapril-hydrochlorothiazide"
+    },
+    { "Label": "ENBREL", "Value": "ENBREL" },
+    { "Label": "ENBREL MINI", "Value": "ENBREL MINI" },
+    { "Label": "ENBREL SURECLICK", "Value": "ENBREL SURECLICK" },
+    { "Label": "Endocet", "Value": "Endocet" },
+    { "Label": "ENFAGROW PREMIUM LIPIL", "Value": "ENFAGROW PREMIUM LIPIL" },
+    {
+      "Label": "ENFAGROW PREMIUM OLDER TODDLER",
+      "Value": "ENFAGROW PREMIUM OLDER TODDLER"
+    },
+    { "Label": "ENGERIX-B", "Value": "ENGERIX-B" },
+    { "Label": "enoxaparin sodium", "Value": "enoxaparin sodium" },
+    { "Label": "Enpresse-28", "Value": "Enpresse-28" },
+    { "Label": "Enskyce", "Value": "Enskyce" },
+    { "Label": "entacapone", "Value": "entacapone" },
+    { "Label": "enulose", "Value": "enulose" },
+    { "Label": "epinastine hcl", "Value": "epinastine hcl" },
+    { "Label": "epinephrine", "Value": "epinephrine" },
+    { "Label": "Epitol", "Value": "Epitol" },
+    { "Label": "EPIVIR HBV", "Value": "EPIVIR HBV" },
+    { "Label": "eq lansoprazole", "Value": "eq lansoprazole" },
+    {
+      "Label": "eq nighttime sleep aid max st",
+      "Value": "eq nighttime sleep aid max st"
+    },
+    { "Label": "eql lansoprazole", "Value": "eql lansoprazole" },
+    { "Label": "ERBITUX", "Value": "ERBITUX" },
+    { "Label": "ergocalciferol", "Value": "ergocalciferol" },
+    { "Label": "ergoloid mesylates", "Value": "ergoloid mesylates" },
+    { "Label": "ergotamine-caffeine", "Value": "ergotamine-caffeine" },
+    { "Label": "ERIVEDGE", "Value": "ERIVEDGE" },
+    { "Label": "erlotinib hcl", "Value": "erlotinib hcl" },
+    { "Label": "Errin", "Value": "Errin" },
+    { "Label": "ertapenem sodium", "Value": "ertapenem sodium" },
+    { "Label": "ery", "Value": "ery" },
+    { "Label": "Ery-Tab", "Value": "Ery-Tab" },
+    { "Label": "ERYTHROCIN STEARATE", "Value": "ERYTHROCIN STEARATE" },
+    { "Label": "erythromycin", "Value": "erythromycin" },
+    { "Label": "erythromycin base", "Value": "erythromycin base" },
+    {
+      "Label": "erythromycin ethylsuccinate",
+      "Value": "erythromycin ethylsuccinate"
+    },
+    { "Label": "erythromycin stearate", "Value": "erythromycin stearate" },
+    { "Label": "escitalopram oxalate", "Value": "escitalopram oxalate" },
+    { "Label": "essentra wipes 9x9\"", "Value": "essentra wipes 9x9\"" },
+    { "Label": "Estarylla", "Value": "Estarylla" },
+    { "Label": "estradiol", "Value": "estradiol" },
+    {
+      "Label": "estradiol-norethindrone acet",
+      "Value": "estradiol-norethindrone acet"
+    },
+    { "Label": "ESTRING", "Value": "ESTRING" },
+    { "Label": "ethacrynic acid", "Value": "ethacrynic acid" },
+    { "Label": "ethambutol hcl", "Value": "ethambutol hcl" },
+    { "Label": "ethosuximide", "Value": "ethosuximide" },
+    {
+      "Label": "ethynodiol diac-eth estradiol",
+      "Value": "ethynodiol diac-eth estradiol"
+    },
+    {
+      "Label": "etonogestrel-ethinyl estradiol",
+      "Value": "etonogestrel-ethinyl estradiol"
+    },
+    { "Label": "etoposide", "Value": "etoposide" },
+    { "Label": "Euthyrox", "Value": "Euthyrox" },
+    { "Label": "everolimus", "Value": "everolimus" },
+    { "Label": "exemestane", "Value": "exemestane" },
+    { "Label": "exotic-hc", "Value": "exotic-hc" },
+    { "Label": "EXTAVIA", "Value": "EXTAVIA" },
+    { "Label": "Falmina", "Value": "Falmina" },
+    { "Label": "famciclovir", "Value": "famciclovir" },
+    { "Label": "famotidine", "Value": "famotidine" },
+    { "Label": "FARXIGA", "Value": "FARXIGA" },
+    { "Label": "FARYDAK", "Value": "FARYDAK" },
+    { "Label": "Fayosim", "Value": "Fayosim" },
+    { "Label": "fe c tab plus", "Value": "fe c tab plus" },
+    { "Label": "felbamate", "Value": "felbamate" },
+    { "Label": "felodipine er", "Value": "felodipine er" },
+    { "Label": "FEMCAP", "Value": "FEMCAP" },
+    { "Label": "Femynor", "Value": "Femynor" },
+    { "Label": "fenofibrate", "Value": "fenofibrate" },
+    { "Label": "fenofibrate micronized", "Value": "fenofibrate micronized" },
+    { "Label": "fenofibric acid", "Value": "fenofibric acid" },
+    { "Label": "fentanyl", "Value": "fentanyl" },
+    { "Label": "finasteride", "Value": "finasteride" },
+    { "Label": "flecainide acetate", "Value": "flecainide acetate" },
+    { "Label": "FLOVENT DISKUS", "Value": "FLOVENT DISKUS" },
+    { "Label": "FLOVENT HFA", "Value": "FLOVENT HFA" },
+    { "Label": "FLUAD", "Value": "FLUAD" },
+    { "Label": "FLUARIX QUADRIVALENT", "Value": "FLUARIX QUADRIVALENT" },
+    { "Label": "FLUBLOK QUADRIVALENT", "Value": "FLUBLOK QUADRIVALENT" },
+    { "Label": "FLUCELVAX QUADRIVALENT", "Value": "FLUCELVAX QUADRIVALENT" },
+    { "Label": "fluconazole", "Value": "fluconazole" },
+    { "Label": "flucytosine", "Value": "flucytosine" },
+    { "Label": "fludrocortisone acetate", "Value": "fludrocortisone acetate" },
+    { "Label": "FLULAVAL QUADRIVALENT", "Value": "FLULAVAL QUADRIVALENT" },
+    { "Label": "fluocinolone acetonide", "Value": "fluocinolone acetonide" },
+    {
+      "Label": "fluocinolone acetonide body",
+      "Value": "fluocinolone acetonide body"
+    },
+    {
+      "Label": "fluocinolone acetonide scalp",
+      "Value": "fluocinolone acetonide scalp"
+    },
+    { "Label": "fluocinonide", "Value": "fluocinonide" },
+    {
+      "Label": "fluocinonide emulsified base",
+      "Value": "fluocinonide emulsified base"
+    },
+    { "Label": "fluoritab", "Value": "fluoritab" },
+    { "Label": "fluorometholone", "Value": "fluorometholone" },
+    { "Label": "fluorouracil", "Value": "fluorouracil" },
+    { "Label": "fluoxetine hcl", "Value": "fluoxetine hcl" },
+    { "Label": "fluoxetine hcl (pmdd)", "Value": "fluoxetine hcl (pmdd)" },
+    { "Label": "fluphenazine hcl", "Value": "fluphenazine hcl" },
+    { "Label": "flurandrenolide", "Value": "flurandrenolide" },
+    { "Label": "flutamide", "Value": "flutamide" },
+    { "Label": "fluticasone propionate", "Value": "fluticasone propionate" },
+    { "Label": "fluticasone-salmeterol", "Value": "fluticasone-salmeterol" },
+    { "Label": "fluvastatin sodium", "Value": "fluvastatin sodium" },
+    { "Label": "fluvastatin sodium er", "Value": "fluvastatin sodium er" },
+    { "Label": "FLUZONE HIGH-DOSE", "Value": "FLUZONE HIGH-DOSE" },
+    { "Label": "FLUZONE QUADRIVALENT", "Value": "FLUZONE QUADRIVALENT" },
+    { "Label": "folic acid", "Value": "folic acid" },
+    { "Label": "FOLIVANE-OB", "Value": "FOLIVANE-OB" },
+    { "Label": "fondaparinux sodium", "Value": "fondaparinux sodium" },
+    { "Label": "FOSAMAX PLUS D", "Value": "FOSAMAX PLUS D" },
+    { "Label": "fosamprenavir calcium", "Value": "fosamprenavir calcium" },
+    { "Label": "fosinopril sodium", "Value": "fosinopril sodium" },
+    { "Label": "fosinopril sodium-hctz", "Value": "fosinopril sodium-hctz" },
+    { "Label": "furosemide", "Value": "furosemide" },
+    { "Label": "FUZEON", "Value": "FUZEON" },
+    { "Label": "Fyavolv", "Value": "Fyavolv" },
+    { "Label": "g tussin ac", "Value": "g tussin ac" },
+    { "Label": "gabapentin", "Value": "gabapentin" },
+    {
+      "Label": "galantamine hydrobromide",
+      "Value": "galantamine hydrobromide"
+    },
+    {
+      "Label": "galantamine hydrobromide er",
+      "Value": "galantamine hydrobromide er"
+    },
+    { "Label": "GARDASIL 9", "Value": "GARDASIL 9" },
+    { "Label": "GAVILYTE-C", "Value": "GAVILYTE-C" },
+    { "Label": "Gavilyte-G", "Value": "Gavilyte-G" },
+    { "Label": "Gavilyte-H", "Value": "Gavilyte-H" },
+    {
+      "Label": "Gavilyte-N With Flavor Pack",
+      "Value": "Gavilyte-N With Flavor Pack"
+    },
+    { "Label": "gemfibrozil", "Value": "gemfibrozil" },
+    { "Label": "generlac", "Value": "generlac" },
+    { "Label": "Gengraf", "Value": "Gengraf" },
+    { "Label": "GENTAK", "Value": "GENTAK" },
+    { "Label": "gentamicin sulfate", "Value": "gentamicin sulfate" },
+    { "Label": "GENVOYA", "Value": "GENVOYA" },
+    { "Label": "Gianvi", "Value": "Gianvi" },
+    { "Label": "GILENYA", "Value": "GILENYA" },
+    { "Label": "GILOTRIF", "Value": "GILOTRIF" },
+    { "Label": "GLEOSTINE", "Value": "GLEOSTINE" },
+    { "Label": "glimepiride", "Value": "glimepiride" },
+    { "Label": "glipizide", "Value": "glipizide" },
+    { "Label": "glipizide er", "Value": "glipizide er" },
+    { "Label": "glipizide xl", "Value": "glipizide xl" },
+    { "Label": "glipizide-metformin hcl", "Value": "glipizide-metformin hcl" },
+    { "Label": "GLUCAGEN DIAGNOSTIC", "Value": "GLUCAGEN DIAGNOSTIC" },
+    { "Label": "GLUCAGEN HYPOKIT", "Value": "GLUCAGEN HYPOKIT" },
+    { "Label": "GLUCAGON EMERGENCY", "Value": "GLUCAGON EMERGENCY" },
+    {
+      "Label": "glucagon hcl (diagnostic)",
+      "Value": "glucagon hcl (diagnostic)"
+    },
+    {
+      "Label": "GLUCOPRO INSULIN SYRINGE",
+      "Value": "GLUCOPRO INSULIN SYRINGE"
+    },
+    { "Label": "glyburide", "Value": "glyburide" },
+    { "Label": "glyburide-metformin", "Value": "glyburide-metformin" },
+    { "Label": "glycopyrrolate", "Value": "glycopyrrolate" },
+    { "Label": "gnp heartburn relief", "Value": "gnp heartburn relief" },
+    { "Label": "gnp lansoprazole", "Value": "gnp lansoprazole" },
+    { "Label": "goodsense lansoprazole", "Value": "goodsense lansoprazole" },
+    { "Label": "griseofulvin microsize", "Value": "griseofulvin microsize" },
+    {
+      "Label": "griseofulvin ultramicrosize",
+      "Value": "griseofulvin ultramicrosize"
+    },
+    { "Label": "guaiatussin ac", "Value": "guaiatussin ac" },
+    { "Label": "guaifenesin ac", "Value": "guaifenesin ac" },
+    { "Label": "guaifenesin-codeine", "Value": "guaifenesin-codeine" },
+    { "Label": "guanfacine hcl", "Value": "guanfacine hcl" },
+    { "Label": "guanidine hcl", "Value": "guanidine hcl" },
+    { "Label": "Hailey 1", "Value": "Hailey 1" },
+    { "Label": "Hailey 24 Fe", "Value": "Hailey 24 Fe" },
+    { "Label": "halcinonide", "Value": "halcinonide" },
+    { "Label": "halobetasol propionate", "Value": "halobetasol propionate" },
+    { "Label": "HALOG", "Value": "HALOG" },
+    { "Label": "haloperidol", "Value": "haloperidol" },
+    { "Label": "HAVRIX", "Value": "HAVRIX" },
+    {
+      "Label": "healthwise insulin syr/needle",
+      "Value": "healthwise insulin syr/needle"
+    },
+    { "Label": "Heather", "Value": "Heather" },
+    { "Label": "HEPLISAV-B", "Value": "HEPLISAV-B" },
+    { "Label": "HIBERIX", "Value": "HIBERIX" },
+    { "Label": "hm famotidine", "Value": "hm famotidine" },
+    { "Label": "hm fexofenadine hcl", "Value": "hm fexofenadine hcl" },
+    { "Label": "hm lansoprazole", "Value": "hm lansoprazole" },
+    {
+      "Label": "HM ULTICARE INSULIN SYRINGE",
+      "Value": "HM ULTICARE INSULIN SYRINGE"
+    },
+    { "Label": "HOMENEB WITH SIDESTREAM", "Value": "HOMENEB WITH SIDESTREAM" },
+    { "Label": "HUMALOG", "Value": "HUMALOG" },
+    { "Label": "HUMALOG JUNIOR KWIKPEN", "Value": "HUMALOG JUNIOR KWIKPEN" },
+    { "Label": "HUMALOG KWIKPEN", "Value": "HUMALOG KWIKPEN" },
+    { "Label": "HUMALOG MIX 50/50", "Value": "HUMALOG MIX 50/50" },
+    {
+      "Label": "HUMALOG MIX 50/50 KWIKPEN",
+      "Value": "HUMALOG MIX 50/50 KWIKPEN"
+    },
+    { "Label": "HUMALOG MIX 75/25", "Value": "HUMALOG MIX 75/25" },
+    {
+      "Label": "HUMALOG MIX 75/25 KWIKPEN",
+      "Value": "HUMALOG MIX 75/25 KWIKPEN"
+    },
+    { "Label": "HUMIRA", "Value": "HUMIRA" },
+    { "Label": "HUMIRA PEDIATRIC CROHNS", "Value": "HUMIRA PEDIATRIC CROHNS" },
+    { "Label": "HUMIRA PEN", "Value": "HUMIRA PEN" },
+    {
+      "Label": "HUMIRA PEN-CD/UC/HS STARTER",
+      "Value": "HUMIRA PEN-CD/UC/HS STARTER"
+    },
+    {
+      "Label": "HUMIRA PEN-PS/UV/ADOL HS START",
+      "Value": "HUMIRA PEN-PS/UV/ADOL HS START"
+    },
+    { "Label": "HUMULIN 70/30", "Value": "HUMULIN 70/30" },
+    { "Label": "HUMULIN 70/30 KWIKPEN", "Value": "HUMULIN 70/30 KWIKPEN" },
+    { "Label": "HUMULIN N", "Value": "HUMULIN N" },
+    { "Label": "HUMULIN N KWIKPEN", "Value": "HUMULIN N KWIKPEN" },
+    { "Label": "HUMULIN R", "Value": "HUMULIN R" },
+    {
+      "Label": "HUMULIN R U-500 (CONCENTRATED)",
+      "Value": "HUMULIN R U-500 (CONCENTRATED)"
+    },
+    { "Label": "HUMULIN R U-500 KWIKPEN", "Value": "HUMULIN R U-500 KWIKPEN" },
+    { "Label": "HYCAMTIN", "Value": "HYCAMTIN" },
+    { "Label": "hydralazine hcl", "Value": "hydralazine hcl" },
+    { "Label": "hydrochlorothiazide", "Value": "hydrochlorothiazide" },
+    {
+      "Label": "hydrocod polst-cpm polst er",
+      "Value": "hydrocod polst-cpm polst er"
+    },
+    {
+      "Label": "hydrocodone-acetaminophen",
+      "Value": "hydrocodone-acetaminophen"
+    },
+    { "Label": "hydrocodone-homatropine", "Value": "hydrocodone-homatropine" },
+    { "Label": "hydrocodone-ibuprofen", "Value": "hydrocodone-ibuprofen" },
+    { "Label": "hydrocortisone", "Value": "hydrocortisone" },
+    {
+      "Label": "hydrocortisone (perianal)",
+      "Value": "hydrocortisone (perianal)"
+    },
+    {
+      "Label": "hydrocortisone ace-pramoxine",
+      "Value": "hydrocortisone ace-pramoxine"
+    },
+    {
+      "Label": "hydrocortisone butyr lipo base",
+      "Value": "hydrocortisone butyr lipo base"
+    },
+    { "Label": "hydrocortisone butyrate", "Value": "hydrocortisone butyrate" },
+    { "Label": "hydrocortisone valerate", "Value": "hydrocortisone valerate" },
+    {
+      "Label": "hydrocortisone-acetic acid",
+      "Value": "hydrocortisone-acetic acid"
+    },
+    { "Label": "hydromet", "Value": "hydromet" },
+    { "Label": "hydromorphone hcl", "Value": "hydromorphone hcl" },
+    {
+      "Label": "hydroxychloroquine sulfate",
+      "Value": "hydroxychloroquine sulfate"
+    },
+    { "Label": "hydroxyurea", "Value": "hydroxyurea" },
+    { "Label": "hydroxyzine hcl", "Value": "hydroxyzine hcl" },
+    { "Label": "hydroxyzine pamoate", "Value": "hydroxyzine pamoate" },
+    { "Label": "hyoscyamine sulfate er", "Value": "hyoscyamine sulfate er" },
+    { "Label": "hyoscyamine sulfate sl", "Value": "hyoscyamine sulfate sl" },
+    { "Label": "HYQVIA", "Value": "HYQVIA" },
+    { "Label": "ibandronate sodium", "Value": "ibandronate sodium" },
+    { "Label": "IBRANCE", "Value": "IBRANCE" },
+    { "Label": "Ibu", "Value": "Ibu" },
+    { "Label": "ibuprofen", "Value": "ibuprofen" },
+    { "Label": "ICAR-C PLUS", "Value": "ICAR-C PLUS" },
+    { "Label": "ICLUSIG", "Value": "ICLUSIG" },
+    { "Label": "imatinib mesylate", "Value": "imatinib mesylate" },
+    { "Label": "IMBRUVICA", "Value": "IMBRUVICA" },
+    { "Label": "imipramine hcl", "Value": "imipramine hcl" },
+    { "Label": "imiquimod", "Value": "imiquimod" },
+    { "Label": "IMOVAX RABIES", "Value": "IMOVAX RABIES" },
+    {
+      "Label": "IMVEXXY MAINTENANCE PACK",
+      "Value": "IMVEXXY MAINTENANCE PACK"
+    },
+    { "Label": "INATAL GT", "Value": "INATAL GT" },
+    { "Label": "Incassia", "Value": "Incassia" },
+    { "Label": "indapamide", "Value": "indapamide" },
+    { "Label": "indomethacin", "Value": "indomethacin" },
+    { "Label": "indomethacin er", "Value": "indomethacin er" },
+    { "Label": "INFANRIX", "Value": "INFANRIX" },
+    { "Label": "INLYTA", "Value": "INLYTA" },
+    {
+      "Label": "INNOSPIRE GO PORTABLE MESH NEB",
+      "Value": "INNOSPIRE GO PORTABLE MESH NEB"
+    },
+    {
+      "Label": "INSPIRATION ELITE COMPRESS/NEB",
+      "Value": "INSPIRATION ELITE COMPRESS/NEB"
+    },
+    {
+      "Label": "INSPIRATION ELITE NEBULIZER",
+      "Value": "INSPIRATION ELITE NEBULIZER"
+    },
+    {
+      "Label": "INSPIRATION NEBULIZER SYSTEM",
+      "Value": "INSPIRATION NEBULIZER SYSTEM"
+    },
+    { "Label": "insulin lispro", "Value": "insulin lispro" },
+    {
+      "Label": "insulin lispro (1 unit dial)",
+      "Value": "insulin lispro (1 unit dial)"
+    },
+    { "Label": "insulin syringe", "Value": "insulin syringe" },
+    { "Label": "insulin syringe/needle", "Value": "insulin syringe/needle" },
+    { "Label": "INTELENCE", "Value": "INTELENCE" },
+    { "Label": "INTRON A", "Value": "INTRON A" },
+    { "Label": "Introvale", "Value": "Introvale" },
+    { "Label": "INVIRASE", "Value": "INVIRASE" },
+    { "Label": "IPOL", "Value": "IPOL" },
+    { "Label": "ipratropium bromide", "Value": "ipratropium bromide" },
+    { "Label": "ipratropium-albuterol", "Value": "ipratropium-albuterol" },
+    { "Label": "irbesartan", "Value": "irbesartan" },
+    {
+      "Label": "irbesartan-hydrochlorothiazide",
+      "Value": "irbesartan-hydrochlorothiazide"
+    },
+    { "Label": "ISENTRESS", "Value": "ISENTRESS" },
+    { "Label": "Isibloom", "Value": "Isibloom" },
+    { "Label": "isoniazid", "Value": "isoniazid" },
+    { "Label": "isosorbide dinitrate", "Value": "isosorbide dinitrate" },
+    { "Label": "isosorbide mononitrate", "Value": "isosorbide mononitrate" },
+    {
+      "Label": "isosorbide mononitrate er",
+      "Value": "isosorbide mononitrate er"
+    },
+    { "Label": "itraconazole", "Value": "itraconazole" },
+    { "Label": "ivermectin", "Value": "ivermectin" },
+    { "Label": "IXIARO", "Value": "IXIARO" },
+    { "Label": "Jaimiess", "Value": "Jaimiess" },
+    { "Label": "JAKAFI", "Value": "JAKAFI" },
+    { "Label": "Jantoven", "Value": "Jantoven" },
+    { "Label": "JANUMET", "Value": "JANUMET" },
+    { "Label": "JANUMET XR", "Value": "JANUMET XR" },
+    { "Label": "JANUVIA", "Value": "JANUVIA" },
+    { "Label": "JARDIANCE", "Value": "JARDIANCE" },
+    { "Label": "Jasmiel", "Value": "Jasmiel" },
+    { "Label": "Jencycla", "Value": "Jencycla" },
+    { "Label": "JENTADUETO", "Value": "JENTADUETO" },
+    { "Label": "Jinteli", "Value": "Jinteli" },
+    { "Label": "Jolessa", "Value": "Jolessa" },
+    { "Label": "Juleber", "Value": "Juleber" },
+    { "Label": "Junel 1", "Value": "Junel 1" },
+    { "Label": "Junel 1/20", "Value": "Junel 1/20" },
+    { "Label": "Junel Fe 1", "Value": "Junel Fe 1" },
+    { "Label": "Junel Fe 1/20", "Value": "Junel Fe 1/20" },
+    { "Label": "Junel Fe 24", "Value": "Junel Fe 24" },
+    { "Label": "K-Prime", "Value": "K-Prime" },
+    { "Label": "Kaitlib Fe", "Value": "Kaitlib Fe" },
+    { "Label": "KALETRA", "Value": "KALETRA" },
+    { "Label": "Kalliga", "Value": "Kalliga" },
+    { "Label": "KALYDECO", "Value": "KALYDECO" },
+    { "Label": "Kariva", "Value": "Kariva" },
+    { "Label": "KATE FARMS STANDARD 1", "Value": "KATE FARMS STANDARD 1" },
+    { "Label": "Kelnor 1/35", "Value": "Kelnor 1/35" },
+    { "Label": "Kelnor 1/50", "Value": "Kelnor 1/50" },
+    { "Label": "ketoconazole", "Value": "ketoconazole" },
+    { "Label": "ketorolac tromethamine", "Value": "ketorolac tromethamine" },
+    { "Label": "kinray insulin syringe", "Value": "kinray insulin syringe" },
+    { "Label": "KINRIX", "Value": "KINRIX" },
+    { "Label": "Kionex", "Value": "Kionex" },
+    { "Label": "Klor-Con", "Value": "Klor-Con" },
+    { "Label": "Klor-Con 10", "Value": "Klor-Con 10" },
+    { "Label": "Klor-Con M10", "Value": "Klor-Con M10" },
+    { "Label": "KLOR-CON M15", "Value": "KLOR-CON M15" },
+    { "Label": "Klor-Con M20", "Value": "Klor-Con M20" },
+    { "Label": "Klor-Con Sprinkle", "Value": "Klor-Con Sprinkle" },
+    { "Label": "Klor-Con/Ef", "Value": "Klor-Con/Ef" },
+    { "Label": "kls lansoprazole", "Value": "kls lansoprazole" },
+    { "Label": "kp clotrimazole", "Value": "kp clotrimazole" },
+    { "Label": "kp folic acid", "Value": "kp folic acid" },
+    { "Label": "Kurvelo", "Value": "Kurvelo" },
+    { "Label": "KUVAN", "Value": "KUVAN" },
+    { "Label": "lactulose", "Value": "lactulose" },
+    {
+      "Label": "lactulose encephalopathy",
+      "Value": "lactulose encephalopathy"
+    },
+    { "Label": "lamivudine", "Value": "lamivudine" },
+    { "Label": "lamivudine-zidovudine", "Value": "lamivudine-zidovudine" },
+    { "Label": "lamotrigine", "Value": "lamotrigine" },
+    { "Label": "LANOXIN", "Value": "LANOXIN" },
+    { "Label": "lansoprazole", "Value": "lansoprazole" },
+    { "Label": "LANTUS", "Value": "LANTUS" },
+    { "Label": "LANTUS SOLOSTAR", "Value": "LANTUS SOLOSTAR" },
+    { "Label": "Larin 1", "Value": "Larin 1" },
+    { "Label": "Larin 1/20", "Value": "Larin 1/20" },
+    { "Label": "Larin 24 Fe", "Value": "Larin 24 Fe" },
+    { "Label": "Larin Fe 1", "Value": "Larin Fe 1" },
+    { "Label": "Larin Fe 1/20", "Value": "Larin Fe 1/20" },
+    { "Label": "Larissia", "Value": "Larissia" },
+    { "Label": "latanoprost", "Value": "latanoprost" },
+    { "Label": "Layolis Fe", "Value": "Layolis Fe" },
+    { "Label": "Leena", "Value": "Leena" },
+    {
+      "Label": "LENVIMA (10 MG DAILY DOSE)",
+      "Value": "LENVIMA (10 MG DAILY DOSE)"
+    },
+    {
+      "Label": "LENVIMA (12 MG DAILY DOSE)",
+      "Value": "LENVIMA (12 MG DAILY DOSE)"
+    },
+    {
+      "Label": "LENVIMA (14 MG DAILY DOSE)",
+      "Value": "LENVIMA (14 MG DAILY DOSE)"
+    },
+    {
+      "Label": "LENVIMA (18 MG DAILY DOSE)",
+      "Value": "LENVIMA (18 MG DAILY DOSE)"
+    },
+    {
+      "Label": "LENVIMA (20 MG DAILY DOSE)",
+      "Value": "LENVIMA (20 MG DAILY DOSE)"
+    },
+    {
+      "Label": "LENVIMA (24 MG DAILY DOSE)",
+      "Value": "LENVIMA (24 MG DAILY DOSE)"
+    },
+    {
+      "Label": "LENVIMA (4 MG DAILY DOSE)",
+      "Value": "LENVIMA (4 MG DAILY DOSE)"
+    },
+    {
+      "Label": "LENVIMA (8 MG DAILY DOSE)",
+      "Value": "LENVIMA (8 MG DAILY DOSE)"
+    },
+    { "Label": "Lessina", "Value": "Lessina" },
+    { "Label": "letrozole", "Value": "letrozole" },
+    { "Label": "leucovorin calcium", "Value": "leucovorin calcium" },
+    { "Label": "LEUKERAN", "Value": "LEUKERAN" },
+    { "Label": "leuprolide acetate", "Value": "leuprolide acetate" },
+    { "Label": "levalbuterol tartrate", "Value": "levalbuterol tartrate" },
+    { "Label": "levetiracetam", "Value": "levetiracetam" },
+    { "Label": "levetiracetam er", "Value": "levetiracetam er" },
+    { "Label": "Levo-T", "Value": "Levo-T" },
+    { "Label": "levocarnitine", "Value": "levocarnitine" },
+    { "Label": "levocarnitine sf", "Value": "levocarnitine sf" },
+    {
+      "Label": "levocetirizine dihydrochloride",
+      "Value": "levocetirizine dihydrochloride"
+    },
+    { "Label": "levofloxacin", "Value": "levofloxacin" },
+    { "Label": "Levonest", "Value": "Levonest" },
+    {
+      "Label": "levonorg-eth estrad triphasic",
+      "Value": "levonorg-eth estrad triphasic"
+    },
+    {
+      "Label": "levonorgest-eth est & eth est",
+      "Value": "levonorgest-eth est & eth est"
+    },
+    {
+      "Label": "levonorgest-eth estrad 91-day",
+      "Value": "levonorgest-eth estrad 91-day"
+    },
+    { "Label": "levonorgestrel", "Value": "levonorgestrel" },
+    {
+      "Label": "levonorgestrel-ethinyl estrad",
+      "Value": "levonorgestrel-ethinyl estrad"
+    },
+    { "Label": "Levora 0", "Value": "Levora 0" },
+    { "Label": "levothyroxine sodium", "Value": "levothyroxine sodium" },
+    { "Label": "Levoxyl", "Value": "Levoxyl" },
+    { "Label": "LEXIVA", "Value": "LEXIVA" },
+    { "Label": "lidocaine viscous hcl", "Value": "lidocaine viscous hcl" },
+    { "Label": "lidocaine-prilocaine", "Value": "lidocaine-prilocaine" },
+    { "Label": "LIFESCAN UNISTIK 2", "Value": "LIFESCAN UNISTIK 2" },
+    { "Label": "Lillow", "Value": "Lillow" },
+    { "Label": "lindane", "Value": "lindane" },
+    { "Label": "linezolid", "Value": "linezolid" },
+    { "Label": "liothyronine sodium", "Value": "liothyronine sodium" },
+    { "Label": "lisinopril", "Value": "lisinopril" },
+    {
+      "Label": "lisinopril-hydrochlorothiazide",
+      "Value": "lisinopril-hydrochlorothiazide"
+    },
+    { "Label": "lithium", "Value": "lithium" },
+    { "Label": "lithium carbonate", "Value": "lithium carbonate" },
+    { "Label": "lithium carbonate er", "Value": "lithium carbonate er" },
+    { "Label": "LO LOESTRIN FE", "Value": "LO LOESTRIN FE" },
+    { "Label": "Lo-Zumandimine", "Value": "Lo-Zumandimine" },
+    { "Label": "Lojaimiess", "Value": "Lojaimiess" },
+    { "Label": "lopinavir-ritonavir", "Value": "lopinavir-ritonavir" },
+    { "Label": "Lopreeza", "Value": "Lopreeza" },
+    { "Label": "lorazepam", "Value": "lorazepam" },
+    { "Label": "Lorcet", "Value": "Lorcet" },
+    { "Label": "Lorcet Hd", "Value": "Lorcet Hd" },
+    { "Label": "Loryna", "Value": "Loryna" },
+    { "Label": "losartan potassium", "Value": "losartan potassium" },
+    { "Label": "losartan potassium-hctz", "Value": "losartan potassium-hctz" },
+    { "Label": "LOTEMAX", "Value": "LOTEMAX" },
+    { "Label": "loteprednol etabonate", "Value": "loteprednol etabonate" },
+    { "Label": "lovastatin", "Value": "lovastatin" },
+    { "Label": "Low-Ogestrel", "Value": "Low-Ogestrel" },
+    { "Label": "loxapine succinate", "Value": "loxapine succinate" },
+    { "Label": "Ludent", "Value": "Ludent" },
+    {
+      "Label": "LUER LOCK SAFETY SYRINGES",
+      "Value": "LUER LOCK SAFETY SYRINGES"
+    },
+    { "Label": "LUMIGAN", "Value": "LUMIGAN" },
+    {
+      "Label": "LUMINEB II PISTON NEBULIZER",
+      "Value": "LUMINEB II PISTON NEBULIZER"
+    },
+    { "Label": "LUPANETA PACK", "Value": "LUPANETA PACK" },
+    { "Label": "Lutera", "Value": "Lutera" },
+    { "Label": "LYNPARZA", "Value": "LYNPARZA" },
+    { "Label": "LYSODREN", "Value": "LYSODREN" },
+    { "Label": "Lyza", "Value": "Lyza" },
+    { "Label": "M-M-R II", "Value": "M-M-R II" },
+    { "Label": "M-VIT", "Value": "M-VIT" },
+    {
+      "Label": "MABIS COSMOCOMP NEBULIZER",
+      "Value": "MABIS COSMOCOMP NEBULIZER"
+    },
+    { "Label": "malathion", "Value": "malathion" },
+    { "Label": "maprotiline hcl", "Value": "maprotiline hcl" },
+    { "Label": "marlissa", "Value": "marlissa" },
+    { "Label": "MASK", "Value": "MASK" },
+    { "Label": "MATULANE", "Value": "MATULANE" },
+    { "Label": "Matzim La", "Value": "Matzim La" },
+    {
+      "Label": "MAXICOMFORT SYR 27G X 1/2\"",
+      "Value": "MAXICOMFORT SYR 27G X 1/2\""
+    },
+    { "Label": "meclizine hcl", "Value": "meclizine hcl" },
+    { "Label": "meclofenamate sodium", "Value": "meclofenamate sodium" },
+    { "Label": "medic insulin syringe", "Value": "medic insulin syringe" },
+    {
+      "Label": "medroxyprogesterone acetate",
+      "Value": "medroxyprogesterone acetate"
+    },
+    { "Label": "mefloquine hcl", "Value": "mefloquine hcl" },
+    { "Label": "MEKINIST", "Value": "MEKINIST" },
+    { "Label": "Melodetta 24 Fe", "Value": "Melodetta 24 Fe" },
+    { "Label": "meloxicam", "Value": "meloxicam" },
+    { "Label": "melphalan", "Value": "melphalan" },
+    { "Label": "memantine hcl", "Value": "memantine hcl" },
+    { "Label": "MENACTRA", "Value": "MENACTRA" },
+    { "Label": "MENVEO", "Value": "MENVEO" },
+    { "Label": "meperidine hcl", "Value": "meperidine hcl" },
+    { "Label": "mercaptopurine", "Value": "mercaptopurine" },
+    { "Label": "mesalamine er", "Value": "mesalamine er" },
+    { "Label": "mesalamine-cleanser", "Value": "mesalamine-cleanser" },
+    { "Label": "Metadate Er", "Value": "Metadate Er" },
+    { "Label": "metaproterenol sulfate", "Value": "metaproterenol sulfate" },
+    { "Label": "metformin hcl", "Value": "metformin hcl" },
+    { "Label": "metformin hcl er", "Value": "metformin hcl er" },
+    { "Label": "methadone hcl", "Value": "methadone hcl" },
+    { "Label": "Methadone Hcl Intensol", "Value": "Methadone Hcl Intensol" },
+    { "Label": "Methadose", "Value": "Methadose" },
+    { "Label": "methazolamide", "Value": "methazolamide" },
+    { "Label": "methenamine hippurate", "Value": "methenamine hippurate" },
+    { "Label": "methenamine mandelate", "Value": "methenamine mandelate" },
+    { "Label": "Methergine", "Value": "Methergine" },
+    { "Label": "methimazole", "Value": "methimazole" },
+    { "Label": "methitest", "Value": "methitest" },
+    { "Label": "methotrexate", "Value": "methotrexate" },
+    { "Label": "methotrexate sodium", "Value": "methotrexate sodium" },
+    { "Label": "methoxsalen rapid", "Value": "methoxsalen rapid" },
+    { "Label": "methscopolamine bromide", "Value": "methscopolamine bromide" },
+    { "Label": "methyldopa", "Value": "methyldopa" },
+    {
+      "Label": "methyldopa-hydrochlorothiazide",
+      "Value": "methyldopa-hydrochlorothiazide"
+    },
+    {
+      "Label": "methylergonovine maleate",
+      "Value": "methylergonovine maleate"
+    },
+    { "Label": "methylphenidate hcl", "Value": "methylphenidate hcl" },
+    { "Label": "methylphenidate hcl er", "Value": "methylphenidate hcl er" },
+    {
+      "Label": "methylphenidate hcl er (cd)",
+      "Value": "methylphenidate hcl er (cd)"
+    },
+    {
+      "Label": "methylphenidate hcl er (la)",
+      "Value": "methylphenidate hcl er (la)"
+    },
+    { "Label": "methylprednisolone", "Value": "methylprednisolone" },
+    { "Label": "metoclopramide hcl", "Value": "metoclopramide hcl" },
+    { "Label": "metoprolol succinate er", "Value": "metoprolol succinate er" },
+    { "Label": "metoprolol tartrate", "Value": "metoprolol tartrate" },
+    {
+      "Label": "metoprolol-hydrochlorothiazide",
+      "Value": "metoprolol-hydrochlorothiazide"
+    },
+    { "Label": "metronidazole", "Value": "metronidazole" },
+    { "Label": "mexiletine hcl", "Value": "mexiletine hcl" },
+    { "Label": "Mibelas 24 Fe", "Value": "Mibelas 24 Fe" },
+    { "Label": "MICRO PLUS NEBULIZER", "Value": "MICRO PLUS NEBULIZER" },
+    {
+      "Label": "MICROELITE COMPRESSOR NEB SYS",
+      "Value": "MICROELITE COMPRESSOR NEB SYS"
+    },
+    { "Label": "Microgestin 1", "Value": "Microgestin 1" },
+    { "Label": "Microgestin 1/20", "Value": "Microgestin 1/20" },
+    { "Label": "Microgestin Fe 1", "Value": "Microgestin Fe 1" },
+    { "Label": "Microgestin Fe 1/20", "Value": "Microgestin Fe 1/20" },
+    { "Label": "midodrine hcl", "Value": "midodrine hcl" },
+    { "Label": "MIGERGOT", "Value": "MIGERGOT" },
+    { "Label": "Mili", "Value": "Mili" },
+    { "Label": "Mimvey", "Value": "Mimvey" },
+    { "Label": "MINI COMPRESSOR", "Value": "MINI COMPRESSOR" },
+    {
+      "Label": "MINIELITE COMPRESSOR NEB SYS",
+      "Value": "MINIELITE COMPRESSOR NEB SYS"
+    },
+    { "Label": "minocycline hcl", "Value": "minocycline hcl" },
+    { "Label": "minocycline hcl er", "Value": "minocycline hcl er" },
+    { "Label": "minoxidil", "Value": "minoxidil" },
+    { "Label": "mirtazapine", "Value": "mirtazapine" },
+    { "Label": "misoprostol", "Value": "misoprostol" },
+    {
+      "Label": "MISTERNEB COMPRESSOR NEBULIZER",
+      "Value": "MISTERNEB COMPRESSOR NEBULIZER"
+    },
+    { "Label": "mometasone furoate", "Value": "mometasone furoate" },
+    { "Label": "Mono-Linyah", "Value": "Mono-Linyah" },
+    {
+      "Label": "MONOJECT BLUNTIP SYR/CANNULA",
+      "Value": "MONOJECT BLUNTIP SYR/CANNULA"
+    },
+    {
+      "Label": "MONOJECT CONTROL SYRINGE",
+      "Value": "MONOJECT CONTROL SYRINGE"
+    },
+    {
+      "Label": "MONOJECT LIFESHIELD SYRINGE",
+      "Value": "MONOJECT LIFESHIELD SYRINGE"
+    },
+    {
+      "Label": "MONOJECT MAGELLAN SYRINGE",
+      "Value": "MONOJECT MAGELLAN SYRINGE"
+    },
+    {
+      "Label": "MONOJECT SYRINGE LUER LOCK",
+      "Value": "MONOJECT SYRINGE LUER LOCK"
+    },
+    { "Label": "Mononessa", "Value": "Mononessa" },
+    { "Label": "montelukast sodium", "Value": "montelukast sodium" },
+    { "Label": "Morgidox", "Value": "Morgidox" },
+    { "Label": "morphine sulfate", "Value": "morphine sulfate" },
+    {
+      "Label": "morphine sulfate (concentrate)",
+      "Value": "morphine sulfate (concentrate)"
+    },
+    { "Label": "morphine sulfate er", "Value": "morphine sulfate er" },
+    { "Label": "MOTOFEN", "Value": "MOTOFEN" },
+    { "Label": "MOVIPREP", "Value": "MOVIPREP" },
+    { "Label": "moxifloxacin hcl", "Value": "moxifloxacin hcl" },
+    { "Label": "MULTAQ", "Value": "MULTAQ" },
+    { "Label": "multi-vitamin/fluoride", "Value": "multi-vitamin/fluoride" },
+    { "Label": "multivitamin/fluoride", "Value": "multivitamin/fluoride" },
+    { "Label": "multivitamins/fluoride", "Value": "multivitamins/fluoride" },
+    { "Label": "mupirocin", "Value": "mupirocin" },
+    { "Label": "Mvc-Fluoride", "Value": "Mvc-Fluoride" },
+    { "Label": "MY CHOICE", "Value": "MY CHOICE" },
+    { "Label": "MY WAY", "Value": "MY WAY" },
+    { "Label": "mycophenolate mofetil", "Value": "mycophenolate mofetil" },
+    { "Label": "mycophenolate sodium", "Value": "mycophenolate sodium" },
+    { "Label": "MYLERAN", "Value": "MYLERAN" },
+    { "Label": "MYNATAL", "Value": "MYNATAL" },
+    { "Label": "MYNATAL ADVANCE", "Value": "MYNATAL ADVANCE" },
+    { "Label": "mynatal plus", "Value": "mynatal plus" },
+    { "Label": "mynatal-z", "Value": "mynatal-z" },
+    { "Label": "mynate 90 plus", "Value": "mynate 90 plus" },
+    { "Label": "nabumetone", "Value": "nabumetone" },
+    { "Label": "Nafrinse", "Value": "Nafrinse" },
+    { "Label": "naloxone hcl", "Value": "naloxone hcl" },
+    { "Label": "naltrexone hcl", "Value": "naltrexone hcl" },
+    { "Label": "naproxen", "Value": "naproxen" },
+    { "Label": "naproxen dr", "Value": "naproxen dr" },
+    { "Label": "naproxen sodium", "Value": "naproxen sodium" },
+    { "Label": "naratriptan hcl", "Value": "naratriptan hcl" },
+    { "Label": "NATALVIT", "Value": "NATALVIT" },
+    { "Label": "NATAZIA", "Value": "NATAZIA" },
+    { "Label": "NATURE-THROID", "Value": "NATURE-THROID" },
+    { "Label": "nebulizer", "Value": "nebulizer" },
+    { "Label": "Necon 0", "Value": "Necon 0" },
+    { "Label": "Necon 1/35 (28)", "Value": "Necon 1/35 (28)" },
+    { "Label": "nefazodone hcl", "Value": "nefazodone hcl" },
+    { "Label": "Neo-Polycin", "Value": "Neo-Polycin" },
+    { "Label": "Neo-Polycin Hc", "Value": "Neo-Polycin Hc" },
+    { "Label": "neomycin sulfate", "Value": "neomycin sulfate" },
+    {
+      "Label": "neomycin-bacitracin zn-polymyx",
+      "Value": "neomycin-bacitracin zn-polymyx"
+    },
+    {
+      "Label": "neomycin-polymyxin-dexameth",
+      "Value": "neomycin-polymyxin-dexameth"
+    },
+    {
+      "Label": "neomycin-polymyxin-gramicidin",
+      "Value": "neomycin-polymyxin-gramicidin"
+    },
+    { "Label": "neomycin-polymyxin-hc", "Value": "neomycin-polymyxin-hc" },
+    { "Label": "neonatal complete", "Value": "neonatal complete" },
+    { "Label": "NEONATAL PLUS", "Value": "NEONATAL PLUS" },
+    { "Label": "NEULASTA", "Value": "NEULASTA" },
+    { "Label": "NEULASTA ONPRO", "Value": "NEULASTA ONPRO" },
+    { "Label": "neutral sodium fluoride", "Value": "neutral sodium fluoride" },
+    { "Label": "nevirapine", "Value": "nevirapine" },
+    { "Label": "NEXAVAR", "Value": "NEXAVAR" },
+    {
+      "Label": "niacin er (antihyperlipidemic)",
+      "Value": "niacin er (antihyperlipidemic)"
+    },
+    { "Label": "NICOTROL", "Value": "NICOTROL" },
+    { "Label": "NICOTROL NS", "Value": "NICOTROL NS" },
+    { "Label": "nifedipine", "Value": "nifedipine" },
+    { "Label": "nifedipine er", "Value": "nifedipine er" },
+    {
+      "Label": "nifedipine er osmotic release",
+      "Value": "nifedipine er osmotic release"
+    },
+    { "Label": "Nikki", "Value": "Nikki" },
+    { "Label": "nilutamide", "Value": "nilutamide" },
+    { "Label": "nisoldipine er", "Value": "nisoldipine er" },
+    { "Label": "nitisinone", "Value": "nitisinone" },
+    { "Label": "NITRO-BID", "Value": "NITRO-BID" },
+    { "Label": "NITRO-TIME", "Value": "NITRO-TIME" },
+    { "Label": "nitrofurantoin", "Value": "nitrofurantoin" },
+    {
+      "Label": "nitrofurantoin macrocrystal",
+      "Value": "nitrofurantoin macrocrystal"
+    },
+    {
+      "Label": "nitrofurantoin monohyd macro",
+      "Value": "nitrofurantoin monohyd macro"
+    },
+    { "Label": "nitroglycerin", "Value": "nitroglycerin" },
+    { "Label": "NIVA-PLUS", "Value": "NIVA-PLUS" },
+    { "Label": "Nora-Be", "Value": "Nora-Be" },
+    {
+      "Label": "norethin ace-eth estrad-fe",
+      "Value": "norethin ace-eth estrad-fe"
+    },
+    {
+      "Label": "norethin-eth estradiol-fe",
+      "Value": "norethin-eth estradiol-fe"
+    },
+    { "Label": "norethindrone", "Value": "norethindrone" },
+    {
+      "Label": "norethindrone acet-ethinyl est",
+      "Value": "norethindrone acet-ethinyl est"
+    },
+    { "Label": "norethindrone acetate", "Value": "norethindrone acetate" },
+    {
+      "Label": "norethindrone-eth estradiol",
+      "Value": "norethindrone-eth estradiol"
+    },
+    {
+      "Label": "norgestim-eth estrad triphasic",
+      "Value": "norgestim-eth estrad triphasic"
+    },
+    {
+      "Label": "norgestimate-eth estradiol",
+      "Value": "norgestimate-eth estradiol"
+    },
+    { "Label": "Norlyda", "Value": "Norlyda" },
+    { "Label": "Norlyroc", "Value": "Norlyroc" },
+    { "Label": "Nortrel 0", "Value": "Nortrel 0" },
+    { "Label": "Nortrel 1/35 (21)", "Value": "Nortrel 1/35 (21)" },
+    { "Label": "Nortrel 1/35 (28)", "Value": "Nortrel 1/35 (28)" },
+    { "Label": "Nortrel 7/7/7", "Value": "Nortrel 7/7/7" },
+    { "Label": "nortriptyline hcl", "Value": "nortriptyline hcl" },
+    { "Label": "NORVIR", "Value": "NORVIR" },
+    { "Label": "NOVOLIN N FLEXPEN", "Value": "NOVOLIN N FLEXPEN" },
+    {
+      "Label": "NOVOLIN N FLEXPEN RELION",
+      "Value": "NOVOLIN N FLEXPEN RELION"
+    },
+    { "Label": "NOVOLIN R FLEXPEN", "Value": "NOVOLIN R FLEXPEN" },
+    {
+      "Label": "NOVOLIN R FLEXPEN RELION",
+      "Value": "NOVOLIN R FLEXPEN RELION"
+    },
+    { "Label": "np thyroid", "Value": "np thyroid" },
+    { "Label": "NUTRAMINE", "Value": "NUTRAMINE" },
+    { "Label": "NUTROPIN AQ NUSPIN 10", "Value": "NUTROPIN AQ NUSPIN 10" },
+    { "Label": "NUTROPIN AQ NUSPIN 20", "Value": "NUTROPIN AQ NUSPIN 20" },
+    { "Label": "NUTROPIN AQ NUSPIN 5", "Value": "NUTROPIN AQ NUSPIN 5" },
+    { "Label": "NUVARING", "Value": "NUVARING" },
+    { "Label": "Nyamyc", "Value": "Nyamyc" },
+    { "Label": "nystatin", "Value": "nystatin" },
+    { "Label": "nystatin-triamcinolone", "Value": "nystatin-triamcinolone" },
+    { "Label": "Nystop", "Value": "Nystop" },
+    { "Label": "O-CAL PRENATAL", "Value": "O-CAL PRENATAL" },
+    { "Label": "OBSTETRIX DHA", "Value": "OBSTETRIX DHA" },
+    { "Label": "OBSTETRIX EC", "Value": "OBSTETRIX EC" },
+    { "Label": "OBSTETRIX ONE", "Value": "OBSTETRIX ONE" },
+    { "Label": "OBTREX DHA", "Value": "OBTREX DHA" },
+    { "Label": "Ocella", "Value": "Ocella" },
+    { "Label": "ODOMZO", "Value": "ODOMZO" },
+    { "Label": "OFEV", "Value": "OFEV" },
+    { "Label": "ofloxacin", "Value": "ofloxacin" },
+    { "Label": "OGESTREL", "Value": "OGESTREL" },
+    { "Label": "olanzapine", "Value": "olanzapine" },
+    { "Label": "olmesartan medoxomil", "Value": "olmesartan medoxomil" },
+    {
+      "Label": "olmesartan medoxomil-hctz",
+      "Value": "olmesartan medoxomil-hctz"
+    },
+    { "Label": "olopatadine hcl", "Value": "olopatadine hcl" },
+    {
+      "Label": "omega-3-acid ethyl esters",
+      "Value": "omega-3-acid ethyl esters"
+    },
+    { "Label": "omeprazole", "Value": "omeprazole" },
+    { "Label": "OMNIFLEX DIAPHRAGM", "Value": "OMNIFLEX DIAPHRAGM" },
+    { "Label": "ondansetron", "Value": "ondansetron" },
+    { "Label": "ondansetron hcl", "Value": "ondansetron hcl" },
+    {
+      "Label": "ONETOUCH DELICA LANCETS 30G",
+      "Value": "ONETOUCH DELICA LANCETS 30G"
+    },
+    {
+      "Label": "ONETOUCH DELICA LANCETS 33G",
+      "Value": "ONETOUCH DELICA LANCETS 33G"
+    },
+    {
+      "Label": "ONETOUCH DELICA LANCING DEV",
+      "Value": "ONETOUCH DELICA LANCING DEV"
+    },
+    {
+      "Label": "ONETOUCH FINEPOINT LANCETS",
+      "Value": "ONETOUCH FINEPOINT LANCETS"
+    },
+    { "Label": "ONETOUCH ULTRA 2", "Value": "ONETOUCH ULTRA 2" },
+    { "Label": "ONETOUCH ULTRA CONTROL", "Value": "ONETOUCH ULTRA CONTROL" },
+    { "Label": "ONETOUCH ULTRA MINI", "Value": "ONETOUCH ULTRA MINI" },
+    { "Label": "ONETOUCH ULTRALINK", "Value": "ONETOUCH ULTRALINK" },
+    {
+      "Label": "ONETOUCH ULTRASOFT LANCETS",
+      "Value": "ONETOUCH ULTRASOFT LANCETS"
+    },
+    { "Label": "ONETOUCH VERIO", "Value": "ONETOUCH VERIO" },
+    {
+      "Label": "ONETOUCH VERIO FLEX SYSTEM",
+      "Value": "ONETOUCH VERIO FLEX SYSTEM"
+    },
+    {
+      "Label": "ONETOUCH VERIO IQ SYSTEM",
+      "Value": "ONETOUCH VERIO IQ SYSTEM"
+    },
+    {
+      "Label": "ONETOUCH VERIO SYNC SYSTEM",
+      "Value": "ONETOUCH VERIO SYNC SYSTEM"
+    },
+    { "Label": "ONGLYZA", "Value": "ONGLYZA" },
+    { "Label": "OPCICON ONE-STEP", "Value": "OPCICON ONE-STEP" },
+    { "Label": "OPTION 2", "Value": "OPTION 2" },
+    {
+      "Label": "OPTIONHOME NEBULIZER SYSTEM",
+      "Value": "OPTIONHOME NEBULIZER SYSTEM"
+    },
+    { "Label": "Oralone", "Value": "Oralone" },
+    { "Label": "ORENCIA", "Value": "ORENCIA" },
+    { "Label": "ORENCIA CLICKJECT", "Value": "ORENCIA CLICKJECT" },
+    { "Label": "ORFADIN", "Value": "ORFADIN" },
+    { "Label": "Orsythia", "Value": "Orsythia" },
+    { "Label": "oseltamivir phosphate", "Value": "oseltamivir phosphate" },
+    { "Label": "OSMOPREP", "Value": "OSMOPREP" },
+    { "Label": "oxandrolone", "Value": "oxandrolone" },
+    { "Label": "oxcarbazepine", "Value": "oxcarbazepine" },
+    { "Label": "oxybutynin chloride", "Value": "oxybutynin chloride" },
+    { "Label": "oxybutynin chloride er", "Value": "oxybutynin chloride er" },
+    { "Label": "oxycodone hcl", "Value": "oxycodone hcl" },
+    { "Label": "oxycodone-acetaminophen", "Value": "oxycodone-acetaminophen" },
+    { "Label": "oxycodone-aspirin", "Value": "oxycodone-aspirin" },
+    { "Label": "oxycodone-ibuprofen", "Value": "oxycodone-ibuprofen" },
+    { "Label": "oxymorphone hcl", "Value": "oxymorphone hcl" },
+    { "Label": "OZEMPIC (0", "Value": "OZEMPIC (0" },
+    { "Label": "OZEMPIC (1 MG/DOSE)", "Value": "OZEMPIC (1 MG/DOSE)" },
+    { "Label": "palonosetron hcl", "Value": "palonosetron hcl" },
+    { "Label": "pantoprazole sodium", "Value": "pantoprazole sodium" },
+    {
+      "Label": "PARI BABY SIZE 1/PARI LC PLUS",
+      "Value": "PARI BABY SIZE 1/PARI LC PLUS"
+    },
+    { "Label": "PARI LC D NEBULIZER", "Value": "PARI LC D NEBULIZER" },
+    { "Label": "PARI LC PLUS", "Value": "PARI LC PLUS" },
+    {
+      "Label": "PARI LC PLUS NEB SET PED",
+      "Value": "PARI LC PLUS NEB SET PED"
+    },
+    { "Label": "PARI LC STAR", "Value": "PARI LC STAR" },
+    { "Label": "PARI PRONEB ULTRA II", "Value": "PARI PRONEB ULTRA II" },
+    { "Label": "paricalcitol", "Value": "paricalcitol" },
+    { "Label": "Paroex", "Value": "Paroex" },
+    { "Label": "paromomycin sulfate", "Value": "paromomycin sulfate" },
+    { "Label": "paroxetine hcl", "Value": "paroxetine hcl" },
+    { "Label": "paroxetine hcl er", "Value": "paroxetine hcl er" },
+    { "Label": "PEDIARIX", "Value": "PEDIARIX" },
+    { "Label": "PEDVAX HIB", "Value": "PEDVAX HIB" },
+    { "Label": "peg 3350", "Value": "peg 3350" },
+    {
+      "Label": "peg 3350-kcl-na bicarb-nacl",
+      "Value": "peg 3350-kcl-na bicarb-nacl"
+    },
+    { "Label": "peg-3350/electrolytes", "Value": "peg-3350/electrolytes" },
+    { "Label": "Peg-Prep", "Value": "Peg-Prep" },
+    { "Label": "PEGANONE", "Value": "PEGANONE" },
+    { "Label": "PEGASYS", "Value": "PEGASYS" },
+    { "Label": "PEGASYS PROCLICK", "Value": "PEGASYS PROCLICK" },
+    { "Label": "PEGINTRON", "Value": "PEGINTRON" },
+    { "Label": "pen needles", "Value": "pen needles" },
+    { "Label": "penicillamine", "Value": "penicillamine" },
+    { "Label": "penicillin v potassium", "Value": "penicillin v potassium" },
+    { "Label": "PENTACEL", "Value": "PENTACEL" },
+    { "Label": "pentoxifylline er", "Value": "pentoxifylline er" },
+    { "Label": "Periogard", "Value": "Periogard" },
+    { "Label": "permethrin", "Value": "permethrin" },
+    { "Label": "perphenazine", "Value": "perphenazine" },
+    { "Label": "Phenadoz", "Value": "Phenadoz" },
+    { "Label": "Phenazo", "Value": "Phenazo" },
+    { "Label": "phenazopyridine hcl", "Value": "phenazopyridine hcl" },
+    { "Label": "phenelzine sulfate", "Value": "phenelzine sulfate" },
+    { "Label": "phenobarbital", "Value": "phenobarbital" },
+    { "Label": "phenoxybenzamine hcl", "Value": "phenoxybenzamine hcl" },
+    {
+      "Label": "phenytoin sodium extended",
+      "Value": "phenytoin sodium extended"
+    },
+    { "Label": "Philith", "Value": "Philith" },
+    {
+      "Label": "PHILLIPS WILLIS THE WHALE NEB",
+      "Value": "PHILLIPS WILLIS THE WHALE NEB"
+    },
+    { "Label": "PHOSPHOLINE IODIDE", "Value": "PHOSPHOLINE IODIDE" },
+    { "Label": "pimecrolimus", "Value": "pimecrolimus" },
+    { "Label": "pimozide", "Value": "pimozide" },
+    { "Label": "Pimtrea", "Value": "Pimtrea" },
+    { "Label": "pioglitazone hcl", "Value": "pioglitazone hcl" },
+    { "Label": "Pirmella 1/35", "Value": "Pirmella 1/35" },
+    { "Label": "Pirmella 7/7/7", "Value": "Pirmella 7/7/7" },
+    { "Label": "PKU SPHERE 20", "Value": "PKU SPHERE 20" },
+    { "Label": "PLEGRIDY", "Value": "PLEGRIDY" },
+    { "Label": "PLEGRIDY STARTER PACK", "Value": "PLEGRIDY STARTER PACK" },
+    { "Label": "PLENVU", "Value": "PLENVU" },
+    { "Label": "PNEUMOVAX 23", "Value": "PNEUMOVAX 23" },
+    { "Label": "pnv folic acid + iron", "Value": "pnv folic acid + iron" },
+    {
+      "Label": "pnv prenatal plus multivit+dha",
+      "Value": "pnv prenatal plus multivit+dha"
+    },
+    {
+      "Label": "pnv prenatal plus multivitamin",
+      "Value": "pnv prenatal plus multivitamin"
+    },
+    { "Label": "pnv tabs 29-1", "Value": "pnv tabs 29-1" },
+    { "Label": "podofilox", "Value": "podofilox" },
+    { "Label": "Polycin", "Value": "Polycin" },
+    {
+      "Label": "polyethylene glycol 3350",
+      "Value": "polyethylene glycol 3350"
+    },
+    {
+      "Label": "polymyxin b-trimethoprim",
+      "Value": "polymyxin b-trimethoprim"
+    },
+    { "Label": "polyvitamin/fluoride", "Value": "polyvitamin/fluoride" },
+    { "Label": "POMALYST", "Value": "POMALYST" },
+    { "Label": "Portia-28", "Value": "Portia-28" },
+    { "Label": "pot bicarb-pot chloride", "Value": "pot bicarb-pot chloride" },
+    { "Label": "potassium bicarbonate", "Value": "potassium bicarbonate" },
+    {
+      "Label": "potassium chloride crys er",
+      "Value": "potassium chloride crys er"
+    },
+    { "Label": "potassium chloride er", "Value": "potassium chloride er" },
+    { "Label": "potassium citrate er", "Value": "potassium citrate er" },
+    {
+      "Label": "potassium citrate-citric acid",
+      "Value": "potassium citrate-citric acid"
+    },
+    { "Label": "PR NATAL 400", "Value": "PR NATAL 400" },
+    { "Label": "PR NATAL 400 EC", "Value": "PR NATAL 400 EC" },
+    { "Label": "PR NATAL 430", "Value": "PR NATAL 430" },
+    { "Label": "PR NATAL 430 EC", "Value": "PR NATAL 430 EC" },
+    { "Label": "PRADAXA", "Value": "PRADAXA" },
+    {
+      "Label": "pramipexole dihydrochloride",
+      "Value": "pramipexole dihydrochloride"
+    },
+    { "Label": "pravastatin sodium", "Value": "pravastatin sodium" },
+    { "Label": "praziquantel", "Value": "praziquantel" },
+    { "Label": "prazosin hcl", "Value": "prazosin hcl" },
+    {
+      "Label": "PRECISION SURE-DOSE SYRINGE",
+      "Value": "PRECISION SURE-DOSE SYRINGE"
+    },
+    {
+      "Label": "PRECISION SUREDOSE PLUS SYR",
+      "Value": "PRECISION SUREDOSE PLUS SYR"
+    },
+    { "Label": "prednicarbate", "Value": "prednicarbate" },
+    { "Label": "prednisolone", "Value": "prednisolone" },
+    { "Label": "prednisolone acetate", "Value": "prednisolone acetate" },
+    {
+      "Label": "prednisolone sodium phosphate",
+      "Value": "prednisolone sodium phosphate"
+    },
+    { "Label": "prednisone", "Value": "prednisone" },
+    { "Label": "PREMARIN", "Value": "PREMARIN" },
+    { "Label": "PREMPHASE", "Value": "PREMPHASE" },
+    { "Label": "PREMPRO", "Value": "PREMPRO" },
+    { "Label": "prena 1 true", "Value": "prena 1 true" },
+    { "Label": "PRENATA", "Value": "PRENATA" },
+    { "Label": "PRENATABS RX", "Value": "PRENATABS RX" },
+    { "Label": "prenatal", "Value": "prenatal" },
+    { "Label": "prenatal 19", "Value": "prenatal 19" },
+    { "Label": "prenatal one daily", "Value": "prenatal one daily" },
+    { "Label": "prenatal plus", "Value": "prenatal plus" },
+    { "Label": "prenatal plus iron", "Value": "prenatal plus iron" },
+    {
+      "Label": "prenatal vitamin plus low iron",
+      "Value": "prenatal vitamin plus low iron"
+    },
+    { "Label": "PRENATAL-U", "Value": "PRENATAL-U" },
+    { "Label": "preplus", "Value": "preplus" },
+    { "Label": "pretab", "Value": "pretab" },
+    { "Label": "Previfem", "Value": "Previfem" },
+    { "Label": "PREVNAR 13", "Value": "PREVNAR 13" },
+    { "Label": "PREZISTA", "Value": "PREZISTA" },
+    { "Label": "PRIFTIN", "Value": "PRIFTIN" },
+    { "Label": "primaquine phosphate", "Value": "primaquine phosphate" },
+    { "Label": "primidone", "Value": "primidone" },
+    {
+      "Label": "pro comfort spacer adult",
+      "Value": "pro comfort spacer adult"
+    },
+    {
+      "Label": "pro comfort spacer child",
+      "Value": "pro comfort spacer child"
+    },
+    { "Label": "probenecid", "Value": "probenecid" },
+    {
+      "Label": "PROCARE COMPRESSOR NEBULIZER",
+      "Value": "PROCARE COMPRESSOR NEBULIZER"
+    },
+    { "Label": "Procentra", "Value": "Procentra" },
+    {
+      "Label": "prochlorperazine maleate",
+      "Value": "prochlorperazine maleate"
+    },
+    { "Label": "Procto-Med Hc", "Value": "Procto-Med Hc" },
+    { "Label": "Procto-Pak", "Value": "Procto-Pak" },
+    { "Label": "Proctosol Hc", "Value": "Proctosol Hc" },
+    { "Label": "Proctozone-Hc", "Value": "Proctozone-Hc" },
+    { "Label": "progesterone micronized", "Value": "progesterone micronized" },
+    { "Label": "PROMACTA", "Value": "PROMACTA" },
+    { "Label": "promethazine hcl", "Value": "promethazine hcl" },
+    { "Label": "promethazine vc", "Value": "promethazine vc" },
+    { "Label": "promethazine vc/codeine", "Value": "promethazine vc/codeine" },
+    { "Label": "promethazine-codeine", "Value": "promethazine-codeine" },
+    { "Label": "promethazine-dm", "Value": "promethazine-dm" },
+    {
+      "Label": "promethazine-phenylephcodeine",
+      "Value": "promethazine-phenylephcodeine"
+    },
+    {
+      "Label": "promethazine-phenylephrine",
+      "Value": "promethazine-phenylephrine"
+    },
+    { "Label": "PROMETHEGAN", "Value": "PROMETHEGAN" },
+    {
+      "Label": "PRONEB ULTRA II DELUXE/LC STAR",
+      "Value": "PRONEB ULTRA II DELUXE/LC STAR"
+    },
+    { "Label": "PRONUTRIENTS CALCIUM+D3", "Value": "PRONUTRIENTS CALCIUM+D3" },
+    { "Label": "propafenone hcl", "Value": "propafenone hcl" },
+    { "Label": "propafenone hcl er", "Value": "propafenone hcl er" },
+    { "Label": "propranolol hcl", "Value": "propranolol hcl" },
+    { "Label": "propranolol hcl er", "Value": "propranolol hcl er" },
+    { "Label": "propranolol-hctz", "Value": "propranolol-hctz" },
+    { "Label": "propylthiouracil", "Value": "propylthiouracil" },
+    { "Label": "PROQUAD", "Value": "PROQUAD" },
+    { "Label": "protriptyline hcl", "Value": "protriptyline hcl" },
+    { "Label": "PROVIDA OB", "Value": "PROVIDA OB" },
+    { "Label": "pseudoeph-bromphen-dm", "Value": "pseudoeph-bromphen-dm" },
+    { "Label": "PULMICORT FLEXHALER", "Value": "PULMICORT FLEXHALER" },
+    { "Label": "pure comfort pen needle", "Value": "pure comfort pen needle" },
+    { "Label": "px acid reducer max st", "Value": "px acid reducer max st" },
+    { "Label": "pyrazinamide", "Value": "pyrazinamide" },
+    { "Label": "pyridostigmine bromide", "Value": "pyridostigmine bromide" },
+    { "Label": "qc clotrimazole", "Value": "qc clotrimazole" },
+    {
+      "Label": "qc fexofenadine hydrochloride",
+      "Value": "qc fexofenadine hydrochloride"
+    },
+    { "Label": "QUADRACEL", "Value": "QUADRACEL" },
+    { "Label": "quetiapine fumarate", "Value": "quetiapine fumarate" },
+    { "Label": "quinapril hcl", "Value": "quinapril hcl" },
+    {
+      "Label": "quinapril-hydrochlorothiazide",
+      "Value": "quinapril-hydrochlorothiazide"
+    },
+    { "Label": "quinidine sulfate", "Value": "quinidine sulfate" },
+    { "Label": "quinine sulfate", "Value": "quinine sulfate" },
+    { "Label": "ra clotrimazole", "Value": "ra clotrimazole" },
+    { "Label": "RA E-ZJECT LANCETS 28G", "Value": "RA E-ZJECT LANCETS 28G" },
+    {
+      "Label": "RA E-ZJECT LANCETS THIN 26G",
+      "Value": "RA E-ZJECT LANCETS THIN 26G"
+    },
+    {
+      "Label": "RA E-ZJECT LANCETS THIN 28G",
+      "Value": "RA E-ZJECT LANCETS THIN 28G"
+    },
+    {
+      "Label": "RA E-ZJECT LANCETS ULTRA THIN",
+      "Value": "RA E-ZJECT LANCETS ULTRA THIN"
+    },
+    { "Label": "ra lansoprazole", "Value": "ra lansoprazole" },
+    { "Label": "RABAVERT", "Value": "RABAVERT" },
+    { "Label": "raloxifene hcl", "Value": "raloxifene hcl" },
+    { "Label": "ramipril", "Value": "ramipril" },
+    { "Label": "rasagiline mesylate", "Value": "rasagiline mesylate" },
+    { "Label": "reality insulin syringe", "Value": "reality insulin syringe" },
+    { "Label": "REBIF", "Value": "REBIF" },
+    { "Label": "REBIF REBIDOSE", "Value": "REBIF REBIDOSE" },
+    {
+      "Label": "REBIF REBIDOSE TITRATION PACK",
+      "Value": "REBIF REBIDOSE TITRATION PACK"
+    },
+    { "Label": "REBIF TITRATION PACK", "Value": "REBIF TITRATION PACK" },
+    { "Label": "Reclipsen", "Value": "Reclipsen" },
+    { "Label": "RECOMBIVAX HB", "Value": "RECOMBIVAX HB" },
+    { "Label": "RELENZA DISKHALER", "Value": "RELENZA DISKHALER" },
+    { "Label": "REVLIMID", "Value": "REVLIMID" },
+    { "Label": "ribavirin", "Value": "ribavirin" },
+    { "Label": "RIDAURA", "Value": "RIDAURA" },
+    { "Label": "rifabutin", "Value": "rifabutin" },
+    { "Label": "rifampin", "Value": "rifampin" },
+    { "Label": "RIFATER", "Value": "RIFATER" },
+    { "Label": "rimantadine hcl", "Value": "rimantadine hcl" },
+    { "Label": "risedronate sodium", "Value": "risedronate sodium" },
+    { "Label": "risperidone", "Value": "risperidone" },
+    { "Label": "ritonavir", "Value": "ritonavir" },
+    { "Label": "rivastigmine tartrate", "Value": "rivastigmine tartrate" },
+    { "Label": "Rivelsa", "Value": "Rivelsa" },
+    { "Label": "rizatriptan benzoate", "Value": "rizatriptan benzoate" },
+    { "Label": "ropinirole hcl", "Value": "ropinirole hcl" },
+    { "Label": "ropinirole hcl er", "Value": "ropinirole hcl er" },
+    { "Label": "Rosadan", "Value": "Rosadan" },
+    { "Label": "rosuvastatin calcium", "Value": "rosuvastatin calcium" },
+    { "Label": "ROTARIX", "Value": "ROTARIX" },
+    { "Label": "ROTATEQ", "Value": "ROTATEQ" },
+    { "Label": "safety insulin syringes", "Value": "safety insulin syringes" },
+    { "Label": "safety syringe/needle", "Value": "safety syringe/needle" },
+    { "Label": "safety syringes/needle", "Value": "safety syringes/needle" },
+    { "Label": "salicylic acid", "Value": "salicylic acid" },
+    {
+      "Label": "salicylic acid wart remover",
+      "Value": "salicylic acid wart remover"
+    },
+    { "Label": "SANDOSTATIN LAR DEPOT", "Value": "SANDOSTATIN LAR DEPOT" },
+    { "Label": "SAVELLA", "Value": "SAVELLA" },
+    { "Label": "SAVELLA TITRATION PACK", "Value": "SAVELLA TITRATION PACK" },
+    { "Label": "sb cimetidine", "Value": "sb cimetidine" },
+    {
+      "Label": "sb polyethylene glycol 3350",
+      "Value": "sb polyethylene glycol 3350"
+    },
+    { "Label": "scopolamine", "Value": "scopolamine" },
+    { "Label": "se-natal 19", "Value": "se-natal 19" },
+    {
+      "Label": "SECURESAFE INSULIN SYRINGE",
+      "Value": "SECURESAFE INSULIN SYRINGE"
+    },
+    {
+      "Label": "SECURESAFE SYRINGE/NEEDLE",
+      "Value": "SECURESAFE SYRINGE/NEEDLE"
+    },
+    {
+      "Label": "SECURESAFE TUBERCULIN SYRINGE",
+      "Value": "SECURESAFE TUBERCULIN SYRINGE"
+    },
+    { "Label": "SELECT-OB", "Value": "SELECT-OB" },
+    { "Label": "selegiline hcl", "Value": "selegiline hcl" },
+    { "Label": "selenium sulfide", "Value": "selenium sulfide" },
+    { "Label": "SELZENTRY", "Value": "SELZENTRY" },
+    { "Label": "SEREVENT DISKUS", "Value": "SEREVENT DISKUS" },
+    { "Label": "sertraline hcl", "Value": "sertraline hcl" },
+    { "Label": "Setlakin", "Value": "Setlakin" },
+    { "Label": "sevelamer carbonate", "Value": "sevelamer carbonate" },
+    { "Label": "sf", "Value": "sf" },
+    { "Label": "Sharobel", "Value": "Sharobel" },
+    { "Label": "SHINGRIX", "Value": "SHINGRIX" },
+    { "Label": "silver sulfadiazine", "Value": "silver sulfadiazine" },
+    { "Label": "SIMILAC PURE BLISS", "Value": "SIMILAC PURE BLISS" },
+    { "Label": "Simliya", "Value": "Simliya" },
+    { "Label": "Simpesse", "Value": "Simpesse" },
+    { "Label": "SIMPONI", "Value": "SIMPONI" },
+    { "Label": "SIMPONI ARIA", "Value": "SIMPONI ARIA" },
+    { "Label": "simvastatin", "Value": "simvastatin" },
+    { "Label": "sirolimus", "Value": "sirolimus" },
+    { "Label": "SIRTURO", "Value": "SIRTURO" },
+    { "Label": "SLYND", "Value": "SLYND" },
+    { "Label": "sm fexofenadine hcl", "Value": "sm fexofenadine hcl" },
+    { "Label": "sm lansoprazole", "Value": "sm lansoprazole" },
+    { "Label": "sodium chloride", "Value": "sodium chloride" },
+    { "Label": "sodium chloride (pf)", "Value": "sodium chloride (pf)" },
+    { "Label": "sodium fluoride", "Value": "sodium fluoride" },
+    {
+      "Label": "sodium fluoride 5000 ppm",
+      "Value": "sodium fluoride 5000 ppm"
+    },
+    { "Label": "sodium phenylbutyrate", "Value": "sodium phenylbutyrate" },
+    {
+      "Label": "sodium polystyrene sulfonate",
+      "Value": "sodium polystyrene sulfonate"
+    },
+    { "Label": "sodium sulfacetamide", "Value": "sodium sulfacetamide" },
+    {
+      "Label": "sodium sulfacetamide wash",
+      "Value": "sodium sulfacetamide wash"
+    },
+    { "Label": "SOFOSBUVIR-VELPATASVIR", "Value": "SOFOSBUVIR-VELPATASVIR" },
+    { "Label": "Sorine", "Value": "Sorine" },
+    { "Label": "sotalol hcl", "Value": "sotalol hcl" },
+    { "Label": "sotalol hcl (af)", "Value": "sotalol hcl (af)" },
+    { "Label": "spinosad", "Value": "spinosad" },
+    { "Label": "SPIRIVA HANDIHALER", "Value": "SPIRIVA HANDIHALER" },
+    { "Label": "SPIRIVA RESPIMAT", "Value": "SPIRIVA RESPIMAT" },
+    { "Label": "spironolactone", "Value": "spironolactone" },
+    { "Label": "Sprintec 28", "Value": "Sprintec 28" },
+    { "Label": "SPRYCEL", "Value": "SPRYCEL" },
+    { "Label": "Sps", "Value": "Sps" },
+    { "Label": "Sronyx", "Value": "Sronyx" },
+    { "Label": "Ssd", "Value": "Ssd" },
+    { "Label": "sss 10-5", "Value": "sss 10-5" },
+    { "Label": "START", "Value": "START" },
+    { "Label": "stavudine", "Value": "stavudine" },
+    { "Label": "STIVARGA", "Value": "STIVARGA" },
+    { "Label": "STRIBILD", "Value": "STRIBILD" },
+    { "Label": "Subvenite", "Value": "Subvenite" },
+    { "Label": "sucralfate", "Value": "sucralfate" },
+    {
+      "Label": "sulfacetamide sod-sulfur wash",
+      "Value": "sulfacetamide sod-sulfur wash"
+    },
+    { "Label": "sulfacetamide sodium", "Value": "sulfacetamide sodium" },
+    {
+      "Label": "sulfacetamide sodium (acne)",
+      "Value": "sulfacetamide sodium (acne)"
+    },
+    {
+      "Label": "sulfacetamide sodium-sulfur",
+      "Value": "sulfacetamide sodium-sulfur"
+    },
+    {
+      "Label": "sulfacetamide-prednisolone",
+      "Value": "sulfacetamide-prednisolone"
+    },
+    {
+      "Label": "sulfacetamide-sulfur in urea",
+      "Value": "sulfacetamide-sulfur in urea"
+    },
+    { "Label": "sulfadiazine", "Value": "sulfadiazine" },
+    {
+      "Label": "sulfamethoxazole-trimethoprim",
+      "Value": "sulfamethoxazole-trimethoprim"
+    },
+    { "Label": "sulfamez wash", "Value": "sulfamez wash" },
+    { "Label": "sulfasalazine", "Value": "sulfasalazine" },
+    { "Label": "Sulfatrim Pediatric", "Value": "Sulfatrim Pediatric" },
+    { "Label": "sulindac", "Value": "sulindac" },
+    { "Label": "sumatriptan succinate", "Value": "sumatriptan succinate" },
+    {
+      "Label": "sumatriptan succinate refill",
+      "Value": "sumatriptan succinate refill"
+    },
+    { "Label": "SUPRAX", "Value": "SUPRAX" },
+    {
+      "Label": "SURE-JECT INSULIN SYRINGE",
+      "Value": "SURE-JECT INSULIN SYRINGE"
+    },
+    {
+      "Label": "SUSPENDRX W/BITTERBLOC SWEET",
+      "Value": "SUSPENDRX W/BITTERBLOC SWEET"
+    },
+    {
+      "Label": "SUSPENDRX W/BITTERBLOC UNSWEET",
+      "Value": "SUSPENDRX W/BITTERBLOC UNSWEET"
+    },
+    { "Label": "SUTENT", "Value": "SUTENT" },
+    { "Label": "Syeda", "Value": "Syeda" },
+    { "Label": "SYMBICORT", "Value": "SYMBICORT" },
+    { "Label": "SYNJARDY", "Value": "SYNJARDY" },
+    { "Label": "SYNTHROID", "Value": "SYNTHROID" },
+    { "Label": "syringe", "Value": "syringe" },
+    { "Label": "syringe luer lock", "Value": "syringe luer lock" },
+    { "Label": "syringe luer slip", "Value": "syringe luer slip" },
+    {
+      "Label": "syringe/hypodermic safety",
+      "Value": "syringe/hypodermic safety"
+    },
+    { "Label": "TABLOID", "Value": "TABLOID" },
+    { "Label": "tacrolimus", "Value": "tacrolimus" },
+    { "Label": "tadalafil", "Value": "tadalafil" },
+    { "Label": "tadalafil (pah)", "Value": "tadalafil (pah)" },
+    { "Label": "TAFINLAR", "Value": "TAFINLAR" },
+    { "Label": "TAKE ACTION", "Value": "TAKE ACTION" },
+    { "Label": "tamoxifen citrate", "Value": "tamoxifen citrate" },
+    { "Label": "tamsulosin hcl", "Value": "tamsulosin hcl" },
+    { "Label": "Tarina 24 Fe", "Value": "Tarina 24 Fe" },
+    { "Label": "Tarina Fe 1/20", "Value": "Tarina Fe 1/20" },
+    { "Label": "Tarina Fe 1/20 Eq", "Value": "Tarina Fe 1/20 Eq" },
+    { "Label": "TARON-C DHA", "Value": "TARON-C DHA" },
+    { "Label": "Taron-Crystals", "Value": "Taron-Crystals" },
+    { "Label": "TARON-PREX", "Value": "TARON-PREX" },
+    { "Label": "TASIGNA", "Value": "TASIGNA" },
+    { "Label": "TAYTULLA", "Value": "TAYTULLA" },
+    { "Label": "Taztia Xt", "Value": "Taztia Xt" },
+    { "Label": "TDVAX", "Value": "TDVAX" },
+    { "Label": "temazepam", "Value": "temazepam" },
+    { "Label": "temozolomide", "Value": "temozolomide" },
+    { "Label": "TENCON", "Value": "TENCON" },
+    { "Label": "TENIVAC", "Value": "TENIVAC" },
+    {
+      "Label": "tenofovir disoproxil fumarate",
+      "Value": "tenofovir disoproxil fumarate"
+    },
+    { "Label": "terazosin hcl", "Value": "terazosin hcl" },
+    { "Label": "terbinafine hcl", "Value": "terbinafine hcl" },
+    { "Label": "terconazole", "Value": "terconazole" },
+    { "Label": "testosterone", "Value": "testosterone" },
+    { "Label": "testosterone cypionate", "Value": "testosterone cypionate" },
+    { "Label": "tetracycline hcl", "Value": "tetracycline hcl" },
+    { "Label": "tgt clotrimazole", "Value": "tgt clotrimazole" },
+    { "Label": "THALOMID", "Value": "THALOMID" },
+    { "Label": "theophylline", "Value": "theophylline" },
+    { "Label": "theophylline er", "Value": "theophylline er" },
+    { "Label": "Thermazene", "Value": "Thermazene" },
+    { "Label": "thioridazine hcl", "Value": "thioridazine hcl" },
+    { "Label": "thiothixene", "Value": "thiothixene" },
+    { "Label": "thrivite rx", "Value": "thrivite rx" },
+    { "Label": "thyroid", "Value": "thyroid" },
+    { "Label": "Tiadylt Er", "Value": "Tiadylt Er" },
+    { "Label": "tiagabine hcl", "Value": "tiagabine hcl" },
+    { "Label": "Tilia Fe", "Value": "Tilia Fe" },
+    { "Label": "timolol maleate", "Value": "timolol maleate" },
+    { "Label": "TIVICAY", "Value": "TIVICAY" },
+    { "Label": "tizanidine hcl", "Value": "tizanidine hcl" },
+    { "Label": "tobramycin", "Value": "tobramycin" },
+    {
+      "Label": "tobramycin-dexamethasone",
+      "Value": "tobramycin-dexamethasone"
+    },
+    { "Label": "tolbutamide", "Value": "tolbutamide" },
+    { "Label": "tolterodine tartrate", "Value": "tolterodine tartrate" },
+    { "Label": "tolterodine tartrate er", "Value": "tolterodine tartrate er" },
+    { "Label": "topiramate", "Value": "topiramate" },
+    { "Label": "toremifene citrate", "Value": "toremifene citrate" },
+    { "Label": "torsemide", "Value": "torsemide" },
+    { "Label": "Tovet", "Value": "Tovet" },
+    { "Label": "TRADJENTA", "Value": "TRADJENTA" },
+    { "Label": "tramadol hcl", "Value": "tramadol hcl" },
+    { "Label": "trandolapril", "Value": "trandolapril" },
+    {
+      "Label": "trandolapril-verapamil hcl er",
+      "Value": "trandolapril-verapamil hcl er"
+    },
+    { "Label": "tranexamic acid", "Value": "tranexamic acid" },
+    { "Label": "tranylcypromine sulfate", "Value": "tranylcypromine sulfate" },
+    { "Label": "TRAVATAN Z", "Value": "TRAVATAN Z" },
+    { "Label": "travoprost (bak free)", "Value": "travoprost (bak free)" },
+    { "Label": "trazodone hcl", "Value": "trazodone hcl" },
+    { "Label": "treprostinil", "Value": "treprostinil" },
+    { "Label": "tretinoin", "Value": "tretinoin" },
+    { "Label": "tretinoin (emollient)", "Value": "tretinoin (emollient)" },
+    { "Label": "Tri Femynor", "Value": "Tri Femynor" },
+    { "Label": "Tri-Estarylla", "Value": "Tri-Estarylla" },
+    { "Label": "Tri-Legest Fe", "Value": "Tri-Legest Fe" },
+    { "Label": "Tri-Linyah", "Value": "Tri-Linyah" },
+    { "Label": "Tri-Lo-Estarylla", "Value": "Tri-Lo-Estarylla" },
+    { "Label": "Tri-Lo-Marzia", "Value": "Tri-Lo-Marzia" },
+    { "Label": "Tri-Lo-Mili", "Value": "Tri-Lo-Mili" },
+    { "Label": "Tri-Lo-Sprintec", "Value": "Tri-Lo-Sprintec" },
+    { "Label": "Tri-Mili", "Value": "Tri-Mili" },
+    { "Label": "Tri-Previfem", "Value": "Tri-Previfem" },
+    { "Label": "Tri-Sprintec", "Value": "Tri-Sprintec" },
+    { "Label": "tri-tabs dha", "Value": "tri-tabs dha" },
+    { "Label": "tri-vitamin/fluoride", "Value": "tri-vitamin/fluoride" },
+    { "Label": "tri-vite/fluoride", "Value": "tri-vite/fluoride" },
+    { "Label": "Tri-Vylibra", "Value": "Tri-Vylibra" },
+    { "Label": "Tri-Vylibra Lo", "Value": "Tri-Vylibra Lo" },
+    { "Label": "triamcinolone acetonide", "Value": "triamcinolone acetonide" },
+    { "Label": "triamterene", "Value": "triamterene" },
+    { "Label": "triamterene-hctz", "Value": "triamterene-hctz" },
+    { "Label": "Trianex", "Value": "Trianex" },
+    { "Label": "TRICARE", "Value": "TRICARE" },
+    {
+      "Label": "TRICARE PRENATAL DHA ONE",
+      "Value": "TRICARE PRENATAL DHA ONE"
+    },
+    { "Label": "Triderm", "Value": "Triderm" },
+    { "Label": "trientine hcl", "Value": "trientine hcl" },
+    { "Label": "trifluoperazine hcl", "Value": "trifluoperazine hcl" },
+    { "Label": "trihexyphenidyl hcl", "Value": "trihexyphenidyl hcl" },
+    { "Label": "Trilyte", "Value": "Trilyte" },
+    { "Label": "trimethobenzamide hcl", "Value": "trimethobenzamide hcl" },
+    { "Label": "trimethoprim", "Value": "trimethoprim" },
+    { "Label": "trimipramine maleate", "Value": "trimipramine maleate" },
+    { "Label": "trinatal rx 1", "Value": "trinatal rx 1" },
+    { "Label": "TRINATE", "Value": "TRINATE" },
+    { "Label": "Trinessa (28)", "Value": "Trinessa (28)" },
+    { "Label": "TRIUMEQ", "Value": "TRIUMEQ" },
+    { "Label": "TRIVEEN-DUO DHA", "Value": "TRIVEEN-DUO DHA" },
+    { "Label": "Trivora (28)", "Value": "Trivora (28)" },
+    { "Label": "TRULICITY", "Value": "TRULICITY" },
+    { "Label": "TRUMENBA", "Value": "TRUMENBA" },
+    { "Label": "TRUVADA", "Value": "TRUVADA" },
+    { "Label": "Tulana", "Value": "Tulana" },
+    { "Label": "TUZISTRA XR", "Value": "TUZISTRA XR" },
+    { "Label": "TWINRIX", "Value": "TWINRIX" },
+    { "Label": "Tydemy", "Value": "Tydemy" },
+    { "Label": "TYKERB", "Value": "TYKERB" },
+    { "Label": "TYPHIM VI", "Value": "TYPHIM VI" },
+    { "Label": "ULTICARE SYRINGE", "Value": "ULTICARE SYRINGE" },
+    { "Label": "ULTILET INSULIN SYRINGE", "Value": "ULTILET INSULIN SYRINGE" },
+    {
+      "Label": "ULTILET INSULIN SYRINGE SHORT",
+      "Value": "ULTILET INSULIN SYRINGE SHORT"
+    },
+    {
+      "Label": "ultra comfort insulin syringe",
+      "Value": "ultra comfort insulin syringe"
+    },
+    { "Label": "Unithroid", "Value": "Unithroid" },
+    { "Label": "valacyclovir hcl", "Value": "valacyclovir hcl" },
+    { "Label": "valproic acid", "Value": "valproic acid" },
+    { "Label": "valsartan", "Value": "valsartan" },
+    {
+      "Label": "valsartan-hydrochlorothiazide",
+      "Value": "valsartan-hydrochlorothiazide"
+    },
+    { "Label": "vancomycin hcl", "Value": "vancomycin hcl" },
+    { "Label": "Vandazole", "Value": "Vandazole" },
+    {
+      "Label": "VANISHPOINT INSULIN SYRINGE",
+      "Value": "VANISHPOINT INSULIN SYRINGE"
+    },
+    {
+      "Label": "VANISHPOINT SAFETY SYRINGE",
+      "Value": "VANISHPOINT SAFETY SYRINGE"
+    },
+    { "Label": "VANISHPOINT SYRINGE", "Value": "VANISHPOINT SYRINGE" },
+    { "Label": "VAQTA", "Value": "VAQTA" },
+    { "Label": "VARIVAX", "Value": "VARIVAX" },
+    { "Label": "Velivet", "Value": "Velivet" },
+    { "Label": "VEMLIDY", "Value": "VEMLIDY" },
+    { "Label": "venlafaxine hcl", "Value": "venlafaxine hcl" },
+    { "Label": "venlafaxine hcl er", "Value": "venlafaxine hcl er" },
+    { "Label": "VENTAVIS", "Value": "VENTAVIS" },
+    { "Label": "verapamil hcl", "Value": "verapamil hcl" },
+    { "Label": "verapamil hcl er", "Value": "verapamil hcl er" },
+    { "Label": "VEREGEN", "Value": "VEREGEN" },
+    { "Label": "VICTOZA", "Value": "VICTOZA" },
+    { "Label": "Vienva", "Value": "Vienva" },
+    { "Label": "VINATE CARE", "Value": "VINATE CARE" },
+    { "Label": "VINATE II", "Value": "VINATE II" },
+    { "Label": "VINATE M", "Value": "VINATE M" },
+    { "Label": "VINATE ONE", "Value": "VINATE ONE" },
+    { "Label": "viorele", "Value": "viorele" },
+    { "Label": "VIRACEPT", "Value": "VIRACEPT" },
+    { "Label": "VIREAD", "Value": "VIREAD" },
+    { "Label": "virt-c dha", "Value": "virt-c dha" },
+    { "Label": "virtussin a/c", "Value": "virtussin a/c" },
+    { "Label": "VITAFOL GUMMIES", "Value": "VITAFOL GUMMIES" },
+    {
+      "Label": "vitamin d (ergocalciferol)",
+      "Value": "vitamin d (ergocalciferol)"
+    },
+    { "Label": "vitamins acd-fluoride", "Value": "vitamins acd-fluoride" },
+    { "Label": "VITATHELY WITH GINGER", "Value": "VITATHELY WITH GINGER" },
+    { "Label": "VIVOTIF", "Value": "VIVOTIF" },
+    { "Label": "vol-plus", "Value": "vol-plus" },
+    { "Label": "vol-tab rx", "Value": "vol-tab rx" },
+    { "Label": "Volnea", "Value": "Volnea" },
+    { "Label": "VOTRIENT", "Value": "VOTRIENT" },
+    { "Label": "vp-heme ob + dha", "Value": "vp-heme ob + dha" },
+    { "Label": "Vyfemla", "Value": "Vyfemla" },
+    { "Label": "Vylibra", "Value": "Vylibra" },
+    { "Label": "VYVANSE", "Value": "VYVANSE" },
+    { "Label": "warfarin sodium", "Value": "warfarin sodium" },
+    { "Label": "Wera", "Value": "Wera" },
+    { "Label": "WESTHROID", "Value": "WESTHROID" },
+    { "Label": "WIDE-SEAL DIAPHRAGM 60", "Value": "WIDE-SEAL DIAPHRAGM 60" },
+    { "Label": "WIDE-SEAL DIAPHRAGM 65", "Value": "WIDE-SEAL DIAPHRAGM 65" },
+    { "Label": "WIDE-SEAL DIAPHRAGM 70", "Value": "WIDE-SEAL DIAPHRAGM 70" },
+    { "Label": "WIDE-SEAL DIAPHRAGM 75", "Value": "WIDE-SEAL DIAPHRAGM 75" },
+    { "Label": "WIDE-SEAL DIAPHRAGM 80", "Value": "WIDE-SEAL DIAPHRAGM 80" },
+    { "Label": "WIDE-SEAL DIAPHRAGM 85", "Value": "WIDE-SEAL DIAPHRAGM 85" },
+    { "Label": "WIDE-SEAL DIAPHRAGM 90", "Value": "WIDE-SEAL DIAPHRAGM 90" },
+    { "Label": "WIDE-SEAL DIAPHRAGM 95", "Value": "WIDE-SEAL DIAPHRAGM 95" },
+    { "Label": "Wixela Inhub", "Value": "Wixela Inhub" },
+    { "Label": "Wymzya Fe", "Value": "Wymzya Fe" },
+    { "Label": "XALKORI", "Value": "XALKORI" },
+    { "Label": "XARELTO", "Value": "XARELTO" },
+    { "Label": "XARELTO STARTER PACK", "Value": "XARELTO STARTER PACK" },
+    { "Label": "XIGDUO XR", "Value": "XIGDUO XR" },
+    { "Label": "XIIDRA", "Value": "XIIDRA" },
+    { "Label": "XOFLUZA (40 MG DOSE)", "Value": "XOFLUZA (40 MG DOSE)" },
+    { "Label": "XOFLUZA (80 MG DOSE)", "Value": "XOFLUZA (80 MG DOSE)" },
+    { "Label": "XTANDI", "Value": "XTANDI" },
+    { "Label": "XULANE", "Value": "XULANE" },
+    { "Label": "YF-VAX", "Value": "YF-VAX" },
+    { "Label": "Yuvafem", "Value": "Yuvafem" },
+    { "Label": "zaleplon", "Value": "zaleplon" },
+    { "Label": "Zarah", "Value": "Zarah" },
+    { "Label": "Zebutal", "Value": "Zebutal" },
+    { "Label": "ZELBORAF", "Value": "ZELBORAF" },
+    { "Label": "Zenatane", "Value": "Zenatane" },
+    { "Label": "ZENPEP", "Value": "ZENPEP" },
+    { "Label": "Zenzedi", "Value": "Zenzedi" },
+    { "Label": "zidovudine", "Value": "zidovudine" },
+    { "Label": "ziprasidone hcl", "Value": "ziprasidone hcl" },
+    { "Label": "ZIRGAN", "Value": "ZIRGAN" },
+    { "Label": "ZOLINZA", "Value": "ZOLINZA" },
+    { "Label": "zolpidem tartrate", "Value": "zolpidem tartrate" },
+    { "Label": "zonisamide", "Value": "zonisamide" },
+    { "Label": "ZOSTAVAX", "Value": "ZOSTAVAX" },
+    { "Label": "Zovia 1/35E (28)", "Value": "Zovia 1/35E (28)" },
+    { "Label": "Zumandimine", "Value": "Zumandimine" },
+    { "Label": "ZYDELIG", "Value": "ZYDELIG" },
+    { "Label": "ZYTIGA", "Value": "ZYTIGA" }
+  ]
+}
