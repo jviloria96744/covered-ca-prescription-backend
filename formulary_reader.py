@@ -2,37 +2,6 @@ import tabula
 import pandas as pd
 import json
 
-def proc_drug_list(provider_name):
-    file = "Formularies/Unprocessed Drug Lists/" + provider_name + ".txt"
-    open_file = open(file, 'r') 
-    lines = open_file.readlines()
-
-    drug_list = []
-    temp = ""
-    for line in lines:
-        stripped_line = line.strip()
-        stripped_line = stripped_line.replace('\n', ' ')
-
-        drug_to_add = temp + stripped_line
-
-        if stripped_line[0:1] == "I-": # This line exists because of the CCHP page structure and should be modified accordingly
-            pass
-        elif stripped_line[-1].isdigit() and '.' in stripped_line:
-            drug_list.append(drug_to_add.split('.')[0].strip())
-            temp = ""
-        else:
-            temp = stripped_line
-    
-    sorted_drug_list = sorted(drug_list, key=str.casefold)
-
-    drug_options = []
-    for drug in sorted_drug_list:
-        drug_options.append({"Label": drug, "Value": drug})
-
-    with open('Formularies/Processed Drug Lists/' + provider_name + '.json', 'w') as fp:
-        json.dump({"Drug List": drug_options}, fp)
-
-
 def anthem():
     # Anthem Blue Cross Formulary Processing
     file = "Formularies/Formulary PDFs/Anthem-Blue-Cross.pdf"
@@ -179,4 +148,4 @@ if __name__ == "__main__":
     #molina()
     #valley_health()
 
-    #proc_drug_list('CCHP')
+    pass
