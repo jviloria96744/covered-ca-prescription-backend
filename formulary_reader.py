@@ -1,6 +1,7 @@
 import tabula
 import pandas as pd
 import json
+import re
 
 
 def anthem():
@@ -113,17 +114,37 @@ def kaiser():
 
 
 # No lines make processing Molina's PDF difficult
-""" def molina():
+def molina():
     file = "Formularies/Formulary PDFs/Molina.pdf"
-    df = tabula.read_pdf(file, output_format='dataframe', pages='16', stream=True)
-    print(type(df))
-    print(len(df))
+    x1 = 94.34998443603516
+    x2 = 548.7599844360352
+    y1 = 68.46700973510742
+    y2 = 603.9670097351075
+    df = tabula.read_pdf(file, output_format='dataframe',
+                         pages='16-17', area=[y1, x1, y2, x2], lattice=True)
 
-    #formulary = df[0]
-    #print(formulary.head())
+    formulary = df[0]
+    print(formulary)
+
+    # formulary = formulary.replace('\r', '', regex=True)
+    # row_1 = formulary.columns.tolist()[0]
+    # row_1 = row_1.replace('\r', '')
+    # values = re.split('Tier \d', row_1)
+    # print(values)
+    # found = re.search('Tier \d', row_1).group(0)
+    # print(found)
+    #formulary.columns = ["Data"]
+    # print(formulary.iloc[0])
+
+    # for index, row in formulary.head().iterrows():
+    #    print(row[])
+    #     print(row)
+    #     #values = re.split('Tier \d', row[index])
+    #     # print(values)
+
     # formulary.columns = ["Prescription Drug Name", "Drug Tier", "Coverage Requirements and Limits"]
     # formulary = formulary.replace('\r', ' ', regex=True)
-    
+
     # formulary = formulary[formulary['Drug Tier'].notnull()]
     # formulary = formulary.loc[formulary['Drug Tier'] != 'Drug Tier']
 
@@ -131,7 +152,7 @@ def kaiser():
 
     # #print(formulary[formulary['Prescription Drug Name'].str.contains('montelukast')])
 
-    # formulary.to_csv('Formularies/Formulary Tables/healthnet.csv', index=False) """
+    # formulary.to_csv('Formularies/Formulary Tables/molina.csv', index=False)
 
 
 # Issue processing PDF table, columns are being combined into one column
@@ -158,8 +179,8 @@ if __name__ == "__main__":
     # anthem()
     # cchp()
     # healthnet()
-    kaiser()
-    # molina()
+    # kaiser()
+    molina()
     # valley_health()
 
     pass
