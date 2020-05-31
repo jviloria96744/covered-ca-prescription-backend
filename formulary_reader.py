@@ -2,6 +2,7 @@ import tabula
 import pandas as pd
 import json
 
+
 def anthem():
     # Anthem Blue Cross Formulary Processing
     file = "Formularies/Formulary PDFs/Anthem-Blue-Cross.pdf"
@@ -12,7 +13,8 @@ def anthem():
     formulary = table[table['Drug Tier'].notnull()]
 
     # Removing repeated column headers at the top of new pages
-    formulary = formulary.loc[formulary['Prescription Drug Name'] != 'Prescription Drug Name']
+    formulary = formulary.loc[formulary['Prescription Drug Name']
+                              != 'Prescription Drug Name']
 
     # Resetting index after filtering table, may not be necessary depending on use
     formulary.reset_index(drop=True, inplace=True)
@@ -25,12 +27,14 @@ def anthem():
     #print(formulary[formulary['Prescription Drug Name'].str.contains('montelukast')])
 
     # May change to JSON output depending on research
-    formulary.to_csv('Formularies/Formulary Tables/Anthem-Blue-Cross.csv', index=False)
+    formulary.to_csv(
+        'Formularies/Formulary Tables/Anthem-Blue-Cross.csv', index=False)
 
 
 def cchp():
     file = "Formularies/Formulary PDFs/cchp.pdf"
-    df = tabula.read_pdf(file, output_format='dataframe', pages='4-147', lattice=True)
+    df = tabula.read_pdf(file, output_format='dataframe',
+                         pages='4-147', lattice=True)
     table = df[0]
 
     del table["Unnamed: 3"]
@@ -45,7 +49,8 @@ def cchp():
     formulary.reset_index(drop=True, inplace=True)
 
     # # Removing carriage return from column names and table entries
-    formulary.columns = ["Prescription Drug Name", "Drug Tier", "Coverage Requirements and Limits"]
+    formulary.columns = ["Prescription Drug Name",
+                         "Drug Tier", "Coverage Requirements and Limits"]
     formulary = formulary.replace('\r', ' ', regex=True)
 
     # # Example query
@@ -57,12 +62,14 @@ def cchp():
 
 def healthnet():
     file = "Formularies/Formulary PDFs/HealthNet.pdf"
-    df = tabula.read_pdf(file, output_format='dataframe', pages='10-132', lattice=True, multiple_tables=True)
+    df = tabula.read_pdf(file, output_format='dataframe',
+                         pages='10-132', lattice=True, multiple_tables=True)
 
     formulary = df[0]
-    formulary.columns = ["Prescription Drug Name", "Drug Tier", "Coverage Requirements and Limits"]
+    formulary.columns = ["Prescription Drug Name",
+                         "Drug Tier", "Coverage Requirements and Limits"]
     formulary = formulary.replace('\r', ' ', regex=True)
-    
+
     formulary = formulary[formulary['Drug Tier'].notnull()]
     formulary = formulary.loc[formulary['Drug Tier'] != 'Drug Tier']
 
@@ -73,29 +80,36 @@ def healthnet():
     formulary.to_csv('Formularies/Formulary Tables/healthnet.csv', index=False)
 
 
-# Issue with Kaiser PDF not reading column heading correctly
-""" def kaiser():
+def kaiser():
     file = "Formularies/Formulary PDFs/Kaiser-Permanente.pdf"
-    df = tabula.read_pdf(file, output_format='dataframe', pages='12')
+    df = tabula.read_pdf(file, output_format='dataframe',
+                         pages='12-112', lattice=True)
+    # pages='12-112'
 
-    print(type(df))
-    print(len(df))
+    formulary = df[0]
 
-    table = df[0]
-    print(table.head())
+    # The Kaiser PDF gets read in as 7 columns so we take the first four columns (index is column 0)
+    formulary = formulary.iloc[:, 0:3]
 
-    # formulary = df[0]
-    # formulary.columns = ["Prescription Drug Name", "Drug Tier", "Coverage Requirements and Limits"]
-    # formulary = formulary.replace('\r', ' ', regex=True)
-    
-    # formulary = formulary[formulary['Drug Tier'].notnull()]
-    # formulary = formulary.loc[formulary['Drug Tier'] != 'Drug Tier']
+    # Column names are read in improperly so we change the column names to our common table names
+    formulary.columns = ["Prescription Drug Name",
+                         "Drug Tier", "Coverage Requirements and Limits"]
 
-    # formulary.reset_index(drop=True, inplace=True)
+    # Dropping rows that had NaN values in the first two columns as those two columns should always have values
+    formulary = formulary.dropna(
+        subset=(['Prescription Drug Name', 'Drug Tier']))
 
-    # print(formulary[formulary['Prescription Drug Name'].str.contains('montelukast')])
+    # Removing escape characters
+    formulary = formulary.replace('\r', ' ', regex=True)
 
-    #formulary.to_csv('Formularies/Formulary Tables/kaiser.csv', index=False)"""
+    # Resetting index
+    formulary.reset_index(drop=True, inplace=True)
+
+    # Sample Search
+    # print(
+    #    formulary[formulary['Prescription Drug Name'].str.contains('montelukast')])
+
+    formulary.to_csv('Formularies/Formulary Tables/kaiser.csv', index=False)
 
 
 # No lines make processing Molina's PDF difficult
@@ -129,7 +143,7 @@ def healthnet():
 #     print(formulary.head())
 #     # formulary.columns = ["Prescription Drug Name", "Drug Tier", "Coverage Requirements and Limits"]
 #     # formulary = formulary.replace('\r', ' ', regex=True)
-    
+
 #     # formulary = formulary[formulary['Drug Tier'].notnull()]
 #     # formulary = formulary.loc[formulary['Drug Tier'] != 'Drug Tier']
 
@@ -141,11 +155,11 @@ def healthnet():
 
 
 if __name__ == "__main__":
-    #anthem()
-    #cchp()
-    #healthnet()
-    #kaiser()
-    #molina()
-    #valley_health()
+    # anthem()
+    # cchp()
+    # healthnet()
+    kaiser()
+    # molina()
+    # valley_health()
 
     pass
