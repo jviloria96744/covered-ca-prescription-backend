@@ -1,6 +1,6 @@
 # Covered California Prescription Back-End Files
 
-These files form the work that drives the back-end of the [CoveredCA Prescription Search](http://covered-ca-prescription-search.s3-website-us-west-2.amazonaws.com/) web application.
+These files form the work that drives the back-end of the [CoveredCA Prescription Search](http://coveredcaprescriptionsearch.com/) web application.
 
 These files scrape the prescription tables from the insurer's PDF files and write them to CSV/JSON files available for the front-end to consume.
 
