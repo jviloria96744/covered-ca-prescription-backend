@@ -3,6 +3,12 @@ import pandas as pd
 import json
 import re
 
+"""
+These are a collection of ad-hoc functions used to extract the prescription tables out of each insurer's PDFs
+This is a very manual process and each insurer needs their own routine
+In an ideal world, we have access to the raw data and these functions are not necessary
+"""
+
 
 def anthem():
     # Anthem Blue Cross Formulary Processing
